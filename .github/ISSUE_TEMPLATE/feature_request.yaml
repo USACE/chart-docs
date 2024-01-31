@@ -31,7 +31,7 @@ body:
     attributes:
       label: User Story
       description: |
-        As a <role>, I want to <do something> <with some frequency> so that I can/will [achieve some goal/objective].
+        As a \<role\>, I want to \<do something\> \<with some frequency\> so that I can/will achieve \<some goal/objective\>.
     validations:
       required: true
       

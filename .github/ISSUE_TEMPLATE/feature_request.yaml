@@ -1,19 +1,11 @@
 name: Feature request
-description: | 
-In order to capture the most value from the process, the user stories need to 
-be developed with a common format and expectation. This page serves as the structure for the 
-user stories for model library. Please edit the text in Italics.
+description: Describe the feature you would like to add
 title: "[Feature Request]: "
 labels: ["feature", "request"]
 projects: [USACE/screening-tool-ui]
 assignees: ["everyone"]
 
-body:
-  - type: markdown
-    attributes:
-      value: |
-        Adding a feature
-        
+body:   
   - type: input
     id: contact
     attributes:
@@ -24,20 +16,14 @@ body:
       required: false
       
   - type: textarea
-    id: feature_request_item
+    id: background
     attributes:
       label: Feature request item
       description: |
-        Describe the step-by-step workflow of the feature you would like to add.
-        Example workflow for added features:
-          1. User logs in.
-          2. User creates data.
-          3. [...]
-      value: |
-        1.
-        2.
-        3.
-        ...
+        A short description of the background regarding this particular user story. If clarity is 
+        needed to define the background for the user persona and general need for achieving the 
+        objective, this is a good place to put it.
+      value: 
     validations:
       required: true
       

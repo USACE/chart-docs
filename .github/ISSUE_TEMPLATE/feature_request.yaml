@@ -18,7 +18,7 @@ body:
   - type: textarea
     id: background
     attributes:
-      label: Feature request item
+      label: Background
       description: |
         A short description of the background regarding this particular user story. If clarity is 
         needed to define the background for the user persona and general need for achieving the 
@@ -29,44 +29,48 @@ body:
   - type: textarea
     id: user_story
     attributes:
+      label: User Story
       description: |
         As a <role>, I want to <do something> <with some frequency> so that I can/will [achieve some goal/objective].
     validations:
       required: true
       
-  - type: dropdown
-    id: feature_priority
+  - type: textarea
+    id: purpose
     attributes:
-      description: Please state the priority of this requested feature.
-      label: Priority of requested feature.
-      options:
-          - Immediate
-          - High
-          - Medium
-          - Low
-          - Nice to have
-          - Before the end of time
+      label: Purpose
+      description: |
+        Please add any additional information regarding the goal/objective - if necessary.    
     validations:
-      required: true
+      required: false
       
   - type: textarea
-    id: feature_alternatives
+    id: workflow
     attributes:
+      label: Workflow
       description: |
-        Describe any alternatives you've considered.
-        A clear and concise description of any alternatives.
-      label: Feature alternatives
+        Please describe some more detail on how you want to do the thing you want to do.    
     validations:
-      required: true
+      required: false
+
+  - type: textarea
+    id: requirements
+    attributes:
+      label: Requirements
+      description: |
+        Any notes on requirements - this will help track progress on the user story.    
+    validations:
+      required: false
       
   - type: textarea
-    id: additional_context
+    id: misc
     attributes:
+      label: Misc. Notes
       description: |
-        Add any other context or screenshots about the feature request.
-      label: Additional context
+        Any other notes are much appreciated. 
     validations:
-      required: true
+      required: false
+  
   - type: markdown
     attributes:
       value: "Thanks for completing our form!"

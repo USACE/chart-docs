@@ -40,9 +40,9 @@ body:
     attributes:
       label: Purpose
       description: |
-        Please add any additional information regarding the goal/objective - if necessary.    
+        Please describe how the feature will accomplish the goal/objective.    
     validations:
-      required: false
+      required: true
       
   - type: textarea
     id: workflow

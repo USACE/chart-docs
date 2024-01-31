@@ -1,5 +1,7 @@
 name: Feature request
-description: Describe step-by-step workflow to create new feature
+description: In order to capture the most value from the process, the user stories need to 
+be developed with a common format and expectation. This page serves as the structure for the 
+user stories for model library. Please edit the text in Italics.
 title: "[Feature Request]: "
 labels: ["feature", "request"]
 projects: [USACE/screening-tool-ui]
@@ -10,6 +12,7 @@ body:
     attributes:
       value: |
         Adding a feature
+        
   - type: input
     id: contact
     attributes:
@@ -18,6 +21,7 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: false
+      
   - type: textarea
     id: feature_request_item
     attributes:
@@ -35,6 +39,7 @@ body:
         ...
     validations:
       required: true
+      
   - type: textarea
     id: feature_related_problem
     attributes:
@@ -44,6 +49,7 @@ body:
       label: Is the feature related to problem
     validations:
       required: true
+      
   - type: dropdown
     id: feature_priority
     attributes:
@@ -58,6 +64,7 @@ body:
           - Before the end of time
     validations:
       required: true
+      
   - type: textarea
     id: feature_alternatives
     attributes:
@@ -67,6 +74,7 @@ body:
       label: Feature alternatives
     validations:
       required: true
+      
   - type: textarea
     id: additional_context
     attributes:

@@ -1,0 +1,50 @@
+<mxfile host="app.diagrams.net" modified="2024-02-01T13:29:10.789Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lVwY1xZAct0WIFh2yemr" version="22.1.19" type="github">
+  <diagram name="Page-1" id="2Ey8FZhIOAeo2eShXoSj">
+    <mxGraphModel dx="1383" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ePrsIyqB74P0uLryzSmZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ePrsIyqB74P0uLryzSmZ-2" target="ePrsIyqB74P0uLryzSmZ-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ePrsIyqB74P0uLryzSmZ-2" value="S3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="540" y="680" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ePrsIyqB74P0uLryzSmZ-3" value="PostGIS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="540" y="540" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ePrsIyqB74P0uLryzSmZ-6" value="Scoping Tool UI (STUI)" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;" vertex="1" parent="1">
+          <mxGeometry x="140" y="572.6" width="60" height="47.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="ePrsIyqB74P0uLryzSmZ-12" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Scoping Tool API (STAPI)" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="370" y="550" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ePrsIyqB74P0uLryzSmZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ePrsIyqB74P0uLryzSmZ-3" target="ePrsIyqB74P0uLryzSmZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePrsIyqB74P0uLryzSmZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.467;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ePrsIyqB74P0uLryzSmZ-16" target="ePrsIyqB74P0uLryzSmZ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ePrsIyqB74P0uLryzSmZ-16" value="Auth&amp;nbsp;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.add_on;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370.5" y="420" width="49.5" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ePrsIyqB74P0uLryzSmZ-19" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;mapserver" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="370" y="690" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ePrsIyqB74P0uLryzSmZ-21" value="Scoping Tool (SCT)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePrsIyqB74P0uLryzSmZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.005;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.017;entryY=0.727;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ePrsIyqB74P0uLryzSmZ-12" target="ePrsIyqB74P0uLryzSmZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ePrsIyqB74P0uLryzSmZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.791;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ePrsIyqB74P0uLryzSmZ-19" target="ePrsIyqB74P0uLryzSmZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

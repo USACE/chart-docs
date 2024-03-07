@@ -2,7 +2,7 @@ name: Bug report
 description: Describe the bug you encountered
 title: "[Bug]: "
 labels: ["raw-request", "bug"]
-projects: [USACE/screening-tool-ui]
+projects: [USACE/CHART]
 assignees: ["everyone"]
 
 body:      

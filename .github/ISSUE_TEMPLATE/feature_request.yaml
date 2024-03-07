@@ -2,7 +2,7 @@ name: Feature request
 description: Describe the feature you would like to add
 title: "[Feature Request]: "
 labels: ["raw-request", "enhancement"]
-projects: [CHART]
+projects: [USACE/CHART]
 assignees: ["everyone"]
 
 body:    

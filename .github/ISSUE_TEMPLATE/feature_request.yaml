@@ -1,7 +1,7 @@
 name: Feature request
 description: Describe the feature you would like to add
 title: "[Feature Request]: "
-labels: ["enhancement"]
+labels: ["raw-request", "enhancement"]
 projects: [USACE/screening-tool-ui]
 assignees: ["everyone"]
 

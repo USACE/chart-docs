@@ -86,6 +86,9 @@
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-46" value="SLC" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="700" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQ4RPiRYlV6zUMraTzQ3-47" target="PQ4RPiRYlV6zUMraTzQ3-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-47" value="Generate exposure inputs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="610" width="120" height="60" as="geometry" />
         </mxCell>
@@ -108,7 +111,10 @@
           <mxGeometry x="370" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-58" value="Modeling input summary" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="610" width="120" height="80" as="geometry" />
+          <mxGeometry x="720" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-59" value="Generate alternative inputs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

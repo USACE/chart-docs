@@ -114,7 +114,7 @@
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-59" value="Generate alternative inputs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-62" value="Other model placeholder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-62" value="Blackbox - Other models placeholder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-65" value="SCT API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">

@@ -107,6 +107,9 @@
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-57" value="existing studies" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="370" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-58" value="Modeling input summary" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

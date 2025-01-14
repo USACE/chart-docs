@@ -71,9 +71,6 @@
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-38" value="populate from SCT studies" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="366" y="370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="500" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-43" value="SCT" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="426" y="500" width="120" height="60" as="geometry" />
         </mxCell>

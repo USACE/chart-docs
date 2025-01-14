@@ -41,16 +41,10 @@
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-22" value="Generate hazard inputs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-148" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQ4RPiRYlV6zUMraTzQ3-25" target="PQ4RPiRYlV6zUMraTzQ3-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-25" value="Query data from SCT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQ4RPiRYlV6zUMraTzQ3-28" target="PQ4RPiRYlV6zUMraTzQ3-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQ4RPiRYlV6zUMraTzQ3-28" target="PQ4RPiRYlV6zUMraTzQ3-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-28" value="Generate study components" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -73,7 +67,7 @@
           <mxGeometry x="122" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-38" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="122" y="660" width="60" height="30" as="geometry" />
+          <mxGeometry x="50" y="670" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-45" value="Tide" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="700" width="80" height="80" as="geometry" />
@@ -193,14 +187,25 @@
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-96" value="review simulation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="340" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQ4RPiRYlV6zUMraTzQ3-104" target="PQ4RPiRYlV6zUMraTzQ3-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQ4RPiRYlV6zUMraTzQ3-104" target="PQ4RPiRYlV6zUMraTzQ3-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-104" value="populate exposure from SCT?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="700" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-105" value="SCT API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="580" width="120" height="80" as="geometry" />
+          <mxGeometry x="220" y="580" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="PQ4RPiRYlV6zUMraTzQ3-25" target="PQ4RPiRYlV6zUMraTzQ3-105">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="PQ4RPiRYlV6zUMraTzQ3-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-109" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="710" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

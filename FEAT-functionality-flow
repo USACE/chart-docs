@@ -98,11 +98,8 @@
             <mxPoint x="528.04" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PQ4RPiRYlV6zUMraTzQ3-78" target="PQ4RPiRYlV6zUMraTzQ3-94" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-78" value="model outputs" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="340" width="60" height="60" as="geometry" />
+          <mxGeometry x="780" y="580" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-80" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="472" y="700" width="60" height="30" as="geometry" />

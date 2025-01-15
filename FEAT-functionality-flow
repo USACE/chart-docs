@@ -143,7 +143,7 @@
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-90" value="summarize modeling inputs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="372" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-93" value="modeling output summary" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-93" value="modeling summary" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-94" value="build modeling summary" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">

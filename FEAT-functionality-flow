@@ -56,13 +56,13 @@
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PQ4RPiRYlV6zUMraTzQ3-45" target="PQ4RPiRYlV6zUMraTzQ3-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-45" value="Tide" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-45" value="Tides" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-327.5" y="1550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PQ4RPiRYlV6zUMraTzQ3-46" target="PQ4RPiRYlV6zUMraTzQ3-128" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-46" value="SLC" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-46" value="Sea Level Changes" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-327.5" y="1720" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
@@ -212,13 +212,13 @@
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PQ4RPiRYlV6zUMraTzQ3-140" source="PQ4RPiRYlV6zUMraTzQ3-48" target="PQ4RPiRYlV6zUMraTzQ3-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-48" value="Model area" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="PQ4RPiRYlV6zUMraTzQ3-140" vertex="1">
+        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-48" value="Model Area" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="PQ4RPiRYlV6zUMraTzQ3-140" vertex="1">
           <mxGeometry x="210" y="230" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PQ4RPiRYlV6zUMraTzQ3-140" source="PQ4RPiRYlV6zUMraTzQ3-52" target="PQ4RPiRYlV6zUMraTzQ3-136" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-52" value="Protective system elements" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="PQ4RPiRYlV6zUMraTzQ3-140" vertex="1">
+        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-52" value="Protective System Elements" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="PQ4RPiRYlV6zUMraTzQ3-140" vertex="1">
           <mxGeometry x="210" y="400" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PQ4RPiRYlV6zUMraTzQ3-140" source="PQ4RPiRYlV6zUMraTzQ3-135" target="PQ4RPiRYlV6zUMraTzQ3-48" edge="1">

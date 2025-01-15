@@ -251,7 +251,7 @@
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-151" value="generate hazard inputs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-595" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="PQ4RPiRYlV6zUMraTzQ3-152" target="PQ4RPiRYlV6zUMraTzQ3-159" edge="1">
+        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="PQ4RPiRYlV6zUMraTzQ3-152" target="PQ4RPiRYlV6zUMraTzQ3-159" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PQ4RPiRYlV6zUMraTzQ3-152" target="PQ4RPiRYlV6zUMraTzQ3-153" edge="1">

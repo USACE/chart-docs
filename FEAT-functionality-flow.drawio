@@ -400,7 +400,7 @@
         <mxCell id="pRfy_A6ynVGi48_vsYZs-4" value="generate tides" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-347.5" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pRfy_A6ynVGi48_vsYZs-8" value="generate SLC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pRfy_A6ynVGi48_vsYZs-8" value="generate storm data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-347.5" y="1660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

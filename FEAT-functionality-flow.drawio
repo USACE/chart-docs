@@ -415,6 +415,27 @@
         <mxCell id="pRfy_A6ynVGi48_vsYZs-11" value="CHS API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="1650" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="pRfy_A6ynVGi48_vsYZs-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pRfy_A6ynVGi48_vsYZs-15" target="pRfy_A6ynVGi48_vsYZs-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRfy_A6ynVGi48_vsYZs-15" value="character" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="1930" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pRfy_A6ynVGi48_vsYZs-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pRfy_A6ynVGi48_vsYZs-16" target="pRfy_A6ynVGi48_vsYZs-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRfy_A6ynVGi48_vsYZs-16" value="UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pRfy_A6ynVGi48_vsYZs-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pRfy_A6ynVGi48_vsYZs-18" target="pRfy_A6ynVGi48_vsYZs-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRfy_A6ynVGi48_vsYZs-18" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pRfy_A6ynVGi48_vsYZs-20" value="DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="2180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

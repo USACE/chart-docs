@@ -503,7 +503,7 @@
           <mxGeometry x="610" y="-90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1620" y="215" width="410" height="605" as="geometry" />
+          <mxGeometry x="-1510" y="205" width="410" height="605" as="geometry" />
         </mxCell>
         <mxCell id="-fWQIyGvg7Xg8wQxf-oc-31" value="&lt;b&gt;Module Template&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-1">
           <mxGeometry x="290" y="17.5" width="100" height="82.5" as="geometry" />

@@ -24,7 +24,7 @@
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PQ4RPiRYlV6zUMraTzQ3-22" target="PQ4RPiRYlV6zUMraTzQ3-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-22" value="Data Generation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PQ4RPiRYlV6zUMraTzQ3-22" value="Data Generation Subsystem" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">

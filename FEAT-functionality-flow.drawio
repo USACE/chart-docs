@@ -445,7 +445,7 @@
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-1" source="-fWQIyGvg7Xg8wQxf-oc-28" target="wG7Q8QUlYoH2plEu2OoV-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wG7Q8QUlYoH2plEu2OoV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-1" source="-fWQIyGvg7Xg8wQxf-oc-28" target="wG7Q8QUlYoH2plEu2OoV-16">
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-1" source="-fWQIyGvg7Xg8wQxf-oc-28" target="wG7Q8QUlYoH2plEu2OoV-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-fWQIyGvg7Xg8wQxf-oc-28" value="convert to standard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-1">
@@ -475,8 +475,11 @@
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-31" value="Each data module must inherits from this template. The output of each module shall follow a set of minimum requirements" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-1">
           <mxGeometry x="253.75" y="90" width="142.5" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-38" value="store data and receive storage key" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-1">
+          <mxGeometry x="190" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-23" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1135" y="220" width="705" height="490" as="geometry" />
+          <mxGeometry x="-1135" y="220" width="725" height="490" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-23" source="wG7Q8QUlYoH2plEu2OoV-18" target="wG7Q8QUlYoH2plEu2OoV-19">
           <mxGeometry relative="1" as="geometry" />
@@ -497,6 +500,9 @@
           <mxGeometry x="303" y="400" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-23" source="wG7Q8QUlYoH2plEu2OoV-21" target="PQ4RPiRYlV6zUMraTzQ3-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-23" source="wG7Q8QUlYoH2plEu2OoV-21" target="wG7Q8QUlYoH2plEu2OoV-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-21" value="Generate alternatives" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-23">
@@ -546,6 +552,12 @@
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Generation Subsystem&lt;/h1&gt;&lt;p&gt;The Data Generation Subsystem centers around four data modules with each being&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-23">
           <mxGeometry x="490" y="30" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-23">
+          <mxGeometry x="421" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-37" value="API Store" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="740" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

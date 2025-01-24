@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7" pages="3">
   <diagram name="Page-1" id="qRDFToGieXWFHNiyiY_J">
-    <mxGraphModel dx="3327" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3237" dy="1983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -434,7 +434,7 @@
           <mxGeometry x="610" y="-90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1670" y="210" width="410" height="605" as="geometry" />
+          <mxGeometry x="-1670" y="280" width="410" height="605" as="geometry" />
         </mxCell>
         <mxCell id="-fWQIyGvg7Xg8wQxf-oc-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-1" source="-fWQIyGvg7Xg8wQxf-oc-27" target="-fWQIyGvg7Xg8wQxf-oc-28">
           <mxGeometry relative="1" as="geometry" />
@@ -469,8 +469,11 @@
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-16" value="API Store" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-1">
           <mxGeometry x="265" y="375" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wG7Q8QUlYoH2plEu2OoV-22" value="Module Template" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-1">
-          <mxGeometry x="285" y="22.5" width="100" height="50" as="geometry" />
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-22" value="Data Module Template" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-1">
+          <mxGeometry x="253.75" y="30" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-31" value="Each data module must inherits from this template. The output of each module shall follow a set of minimum requirements" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-1">
+          <mxGeometry x="253.75" y="90" width="142.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-23" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-1135" y="220" width="745" height="490" as="geometry" />
@@ -541,8 +544,8 @@
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-150" value="end" style="ellipse;whiteSpace=wrap;html=1;" parent="wG7Q8QUlYoH2plEu2OoV-23" vertex="1">
           <mxGeometry x="550" y="385" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wG7Q8QUlYoH2plEu2OoV-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Generation&lt;/h1&gt;&lt;p&gt;The Data Generation subsystem&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-23">
-          <mxGeometry x="490" y="30" width="180" height="120" as="geometry" />
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Generation&lt;/h1&gt;&lt;p&gt;The Data Generation subsystem centers around 4 modules with each being&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-23">
+          <mxGeometry x="490" y="30" width="180" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

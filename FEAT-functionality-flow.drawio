@@ -547,11 +547,8 @@
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-150" value="end" style="ellipse;whiteSpace=wrap;html=1;" parent="wG7Q8QUlYoH2plEu2OoV-23" vertex="1">
           <mxGeometry x="550" y="385" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wG7Q8QUlYoH2plEu2OoV-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Generation Subsystem&lt;/h1&gt;&lt;p&gt;The Data Generation Subsystem centers around four data modules with each being&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-23">
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Generation Subsystem&lt;/h1&gt;&lt;p&gt;The Data Generation Subsystem centers around four data modules with each inherits from the Module Template&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-23">
           <mxGeometry x="490" y="30" width="180" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="wG7Q8QUlYoH2plEu2OoV-37" value="API Store" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-23">
-          <mxGeometry x="421" y="290" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

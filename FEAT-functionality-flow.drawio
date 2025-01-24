@@ -556,7 +556,7 @@
           <mxGeometry x="430" y="352.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-90" value="An &quot;alternative&quot; is a model specification and doesn&#39;t require new data, only modification of data from the previous three modules&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-23">
-          <mxGeometry x="380" y="440" width="210" height="55" as="geometry" />
+          <mxGeometry x="380" y="425" width="210" height="55" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-39" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-1135" y="780" width="725" height="490" as="geometry" />

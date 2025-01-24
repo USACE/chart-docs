@@ -603,7 +603,7 @@
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-82" value="Modeling Module Template" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
           <mxGeometry x="253.75" y="30" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wG7Q8QUlYoH2plEu2OoV-83" value="Each data module must inherits from this template. The output of each module is required to follow a set of minimum requirements" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-83" value="Each modeling module must identified the minimum set of&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
           <mxGeometry x="253.75" y="90" width="142.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-84" value="API store output and generate key specific to study" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">

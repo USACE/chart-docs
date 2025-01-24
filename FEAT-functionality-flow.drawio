@@ -538,7 +538,7 @@
           <mxGeometry x="185" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-160" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wG7Q8QUlYoH2plEu2OoV-23" vertex="1">
-          <mxGeometry x="15" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="25" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PQ4RPiRYlV6zUMraTzQ3-150" value="end" style="ellipse;whiteSpace=wrap;html=1;" parent="wG7Q8QUlYoH2plEu2OoV-23" vertex="1">
           <mxGeometry x="565" y="345" width="120" height="80" as="geometry" />
@@ -553,7 +553,7 @@
           <mxGeometry x="421" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-39" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1350" y="840" width="725" height="490" as="geometry" />
+          <mxGeometry x="-1070" y="840" width="725" height="490" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-49" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-39">
           <mxGeometry x="35" y="30" width="120" height="80" as="geometry" />
@@ -563,6 +563,51 @@
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-62" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Modeling Subsystem&lt;/h1&gt;&lt;p&gt;The Data Generation Subsystem centers around four data modules with each inherits from the Module Template&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-39">
           <mxGeometry x="490" y="30" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-70" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-1670" y="850" width="410" height="605" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-70" source="wG7Q8QUlYoH2plEu2OoV-72" target="wG7Q8QUlYoH2plEu2OoV-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-72" value="action" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
+          <mxGeometry x="65" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-70" source="wG7Q8QUlYoH2plEu2OoV-75" target="wG7Q8QUlYoH2plEu2OoV-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-70" source="wG7Q8QUlYoH2plEu2OoV-75" target="wG7Q8QUlYoH2plEu2OoV-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-75" value="convert to standard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
+          <mxGeometry x="65" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-70" source="wG7Q8QUlYoH2plEu2OoV-77" target="wG7Q8QUlYoH2plEu2OoV-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-77" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
+          <mxGeometry x="65" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-78" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
+          <mxGeometry x="65" y="484" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-70" source="wG7Q8QUlYoH2plEu2OoV-80" target="wG7Q8QUlYoH2plEu2OoV-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-80" value="ingest data" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
+          <mxGeometry x="75" y="145" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-81" value="API Store" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
+          <mxGeometry x="265" y="375" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-82" value="Modeling Module Template" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
+          <mxGeometry x="253.75" y="30" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-83" value="Each data module must inherits from this template. The output of each module is required to follow a set of minimum requirements" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
+          <mxGeometry x="253.75" y="90" width="142.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-84" value="API store output and generate key specific to study" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
+          <mxGeometry x="190" y="355" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

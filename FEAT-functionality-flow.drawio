@@ -499,7 +499,7 @@
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-23" source="wG7Q8QUlYoH2plEu2OoV-20" target="wG7Q8QUlYoH2plEu2OoV-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wG7Q8QUlYoH2plEu2OoV-20" value="Generate asset" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-23">
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-20" value="Generate assets" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-23">
           <mxGeometry x="303" y="357.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-23" source="wG7Q8QUlYoH2plEu2OoV-21" target="wG7Q8QUlYoH2plEu2OoV-64">

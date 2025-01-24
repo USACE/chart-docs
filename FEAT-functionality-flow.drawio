@@ -475,8 +475,8 @@
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-31" value="Each data module must inherits from this template. The output of each module shall follow a set of minimum requirements" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-1">
           <mxGeometry x="253.75" y="90" width="142.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wG7Q8QUlYoH2plEu2OoV-38" value="API store output and generate key for study" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-1">
-          <mxGeometry x="190" y="345" width="80" height="30" as="geometry" />
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-38" value="API store output and generate key specific to study" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-1">
+          <mxGeometry x="190" y="355" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-23" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-1135" y="220" width="725" height="490" as="geometry" />

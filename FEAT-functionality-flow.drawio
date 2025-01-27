@@ -516,14 +516,11 @@
             <mxPoint x="420" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="igHUlAx1EoBNNh3pSHyk-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-70" source="igHUlAx1EoBNNh3pSHyk-126" target="wG7Q8QUlYoH2plEu2OoV-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-126" value="API Store" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
-          <mxGeometry x="360" y="260" width="120" height="80" as="geometry" />
+          <mxGeometry x="373" y="495" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-179" value="store output&amp;nbsp; and generate keys specific to study; queue up antecedent modules" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
-          <mxGeometry x="310" y="550" width="110" height="75" as="geometry" />
+          <mxGeometry x="320" y="590" width="110" height="75" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-90" value="* An &quot;alternative&quot; is a model specification and doesn&#39;t require new data, only modification of data from the previous three modules&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1160" y="760" width="210" height="55" as="geometry" />

@@ -375,7 +375,7 @@
         <mxCell id="jp3aCGEwkOMF9N7P8e_z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.58;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" parent="wG7Q8QUlYoH2plEu2OoV-23" source="jp3aCGEwkOMF9N7P8e_z-2" target="wG7Q8QUlYoH2plEu2OoV-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="igHUlAx1EoBNNh3pSHyk-22" value="Parallelism needed to instantiate data modules as multiple modeler may work concurrently&amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-23">
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-22" value="Parallelism during data module instantiation as multiple modelers may work concurrently&amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-23">
           <mxGeometry x="10" y="340" width="210" height="55" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-23" source="igHUlAx1EoBNNh3pSHyk-64" target="jp3aCGEwkOMF9N7P8e_z-2">

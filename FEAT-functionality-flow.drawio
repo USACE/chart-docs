@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.9" pages="3">
   <diagram name="Page-1" id="qRDFToGieXWFHNiyiY_J">
-    <mxGraphModel dx="3828" dy="2323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3156" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,7 +362,7 @@
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-61" value="end" style="ellipse;whiteSpace=wrap;html=1;" parent="wG7Q8QUlYoH2plEu2OoV-39" vertex="1">
           <mxGeometry x="125" y="655" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wG7Q8QUlYoH2plEu2OoV-62" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Modeling Subsystem&lt;/h1&gt;&lt;p&gt;The Data Generation Subsystem c&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="wG7Q8QUlYoH2plEu2OoV-39" vertex="1">
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-62" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Modeling Subsystem&lt;/h1&gt;&lt;p&gt;The Data Generation Subsystem affixes the lifecycle framework&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="wG7Q8QUlYoH2plEu2OoV-39" vertex="1">
           <mxGeometry x="690" y="10" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-39" source="igHUlAx1EoBNNh3pSHyk-91">

@@ -717,7 +717,7 @@
         <mxCell id="igHUlAx1EoBNNh3pSHyk-23" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-1130" y="1850" width="570" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="igHUlAx1EoBNNh3pSHyk-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATA MODULE: BASIC&lt;/h1&gt;&lt;p&gt;Providing a basic workflow to generate data&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-23">
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATA MODULE: BASIC WORKFLOW&lt;/h1&gt;&lt;p&gt;Providing a basic workflow to generate data&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-23">
           <mxGeometry x="350" y="30" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pRfy_A6ynVGi48_vsYZs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="igHUlAx1EoBNNh3pSHyk-23" source="PQ4RPiRYlV6zUMraTzQ3-45" target="pRfy_A6ynVGi48_vsYZs-4" edge="1">

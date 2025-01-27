@@ -218,7 +218,7 @@
           <mxGeometry x="2125" y="2180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-1" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="-1670" y="190" width="410" height="605" as="geometry" />
+          <mxGeometry x="-1635" y="40" width="410" height="605" as="geometry" />
         </mxCell>
         <mxCell id="-fWQIyGvg7Xg8wQxf-oc-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wG7Q8QUlYoH2plEu2OoV-1" source="-fWQIyGvg7Xg8wQxf-oc-27" target="-fWQIyGvg7Xg8wQxf-oc-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -263,7 +263,7 @@
           <mxGeometry x="190" y="355" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-23" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="-1160" y="190" width="590" height="600" as="geometry" />
+          <mxGeometry x="-820" y="50" width="590" height="600" as="geometry" />
         </mxCell>
         <mxCell id="jp3aCGEwkOMF9N7P8e_z-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="wG7Q8QUlYoH2plEu2OoV-23" source="wG7Q8QUlYoH2plEu2OoV-18" target="wG7Q8QUlYoH2plEu2OoV-87" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -391,7 +391,7 @@
           <mxGeometry x="490" y="30" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-70" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="-1660" y="920" width="530" height="700" as="geometry" />
+          <mxGeometry x="-1680" y="1110" width="530" height="700" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wG7Q8QUlYoH2plEu2OoV-70" source="wG7Q8QUlYoH2plEu2OoV-72" target="wG7Q8QUlYoH2plEu2OoV-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -468,7 +468,7 @@
           <mxGeometry x="360" y="495" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-90" value="* An &quot;alternative&quot; is a model specification and doesn&#39;t require new data, only modification of data from the previous three modules&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1150" y="807.5" width="210" height="55" as="geometry" />
+          <mxGeometry x="-810" y="667.5" width="210" height="55" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-6" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-1630" y="-690" width="750" height="670" as="geometry" />

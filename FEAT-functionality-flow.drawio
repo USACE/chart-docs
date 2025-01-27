@@ -347,11 +347,10 @@
         <mxCell id="igHUlAx1EoBNNh3pSHyk-22" value="Parallelism during data module instantiation as multiple modelers may work concurrently&amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-23">
           <mxGeometry x="50" y="270" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="igHUlAx1EoBNNh3pSHyk-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-23" source="igHUlAx1EoBNNh3pSHyk-64" target="jp3aCGEwkOMF9N7P8e_z-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="igHUlAx1EoBNNh3pSHyk-64" value="Modules requirement summary" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-23">
-          <mxGeometry x="305" y="210" width="100" height="60" as="geometry" />
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-23" target="jp3aCGEwkOMF9N7P8e_z-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="240.0526315789475" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-39" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="920" width="725" height="490" as="geometry" />
@@ -579,6 +578,15 @@
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-75" value="configure modules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-6">
           <mxGeometry x="320" y="281.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-81" value="Determine which Data and Modeling Modules to enable and in which arrangement&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-6">
+          <mxGeometry x="160" y="201.87" width="130" height="63.75" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="igHUlAx1EoBNNh3pSHyk-6" source="igHUlAx1EoBNNh3pSHyk-82" target="igHUlAx1EoBNNh3pSHyk-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-82" value="Modules requirement summary" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-6">
+          <mxGeometry x="170" y="281.25" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-23" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-1140" y="1810" width="570" height="650" as="geometry" />

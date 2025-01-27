@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.9" pages="3">
   <diagram name="Page-1" id="qRDFToGieXWFHNiyiY_J">
-    <mxGraphModel dx="3156" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3828" dy="2323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -508,8 +508,8 @@
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-82" value="Modeling Module Template" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontStyle=1" parent="wG7Q8QUlYoH2plEu2OoV-70" vertex="1">
           <mxGeometry x="383" y="20" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wG7Q8QUlYoH2plEu2OoV-83" value="Each Modeling Module must identified the required set of Data Modules needed for its internal process" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wG7Q8QUlYoH2plEu2OoV-70" vertex="1">
-          <mxGeometry x="383" y="80" width="142.5" height="100" as="geometry" />
+        <mxCell id="wG7Q8QUlYoH2plEu2OoV-83" value="Each Modeling Module must identified (1) the required set of Data Modules and (2) compatible precedent / antecedent concrete Modeling Modules" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wG7Q8QUlYoH2plEu2OoV-70" vertex="1">
+          <mxGeometry x="383" y="90" width="142.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-70" source="igHUlAx1EoBNNh3pSHyk-9" target="wG7Q8QUlYoH2plEu2OoV-78">
           <mxGeometry relative="1" as="geometry">
@@ -839,9 +839,6 @@
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-59" value="configure Modeling Modules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="779.5" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="igHUlAx1EoBNNh3pSHyk-107" value="The output data from a Modeling Module must follow a fluent interface" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1660" y="1670" width="142.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-143" value="!!! WHAT ARE REQUIRED GENERAL STUDY INPUTS?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-530" y="495" width="150" height="55" as="geometry" />

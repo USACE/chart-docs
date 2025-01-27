@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.9" pages="3">
   <diagram name="Page-1" id="qRDFToGieXWFHNiyiY_J">
-    <mxGraphModel dx="3156" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3429" dy="2094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -346,11 +346,6 @@
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-22" value="Parallelism during data module instantiation as multiple modelers may work concurrently&amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-23">
           <mxGeometry x="50" y="270" width="150" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="igHUlAx1EoBNNh3pSHyk-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-23" target="jp3aCGEwkOMF9N7P8e_z-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="305" y="240.0526315789475" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-39" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="920" width="725" height="490" as="geometry" />

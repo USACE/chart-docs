@@ -642,11 +642,11 @@
         <mxCell id="igHUlAx1EoBNNh3pSHyk-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="igHUlAx1EoBNNh3pSHyk-6" source="igHUlAx1EoBNNh3pSHyk-108" target="igHUlAx1EoBNNh3pSHyk-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="igHUlAx1EoBNNh3pSHyk-108" value="summarize modeling inputs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-6">
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-108" value="modify general / module config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-6">
           <mxGeometry x="20" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="igHUlAx1EoBNNh3pSHyk-110" value="modify study config" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-6">
-          <mxGeometry x="110" y="410" width="60" height="30" as="geometry" />
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-110" value="modify config" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-6">
+          <mxGeometry x="90" y="408.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-111" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-6">
           <mxGeometry x="20" y="690" width="120" height="80" as="geometry" />

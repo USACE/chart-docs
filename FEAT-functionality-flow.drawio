@@ -622,7 +622,7 @@
           <mxGeometry x="490" y="368.75" width="120" height="61.25" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-23" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="1810" width="570" height="650" as="geometry" />
+          <mxGeometry x="-1130" y="1960" width="570" height="650" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATA MODULE BASIC&lt;/h1&gt;&lt;p&gt;Providing a basic workflow to generate data&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-23">
           <mxGeometry x="370" y="30" width="180" height="120" as="geometry" />
@@ -751,10 +751,10 @@
           <mxGeometry x="-1670" y="795" width="170" height="75" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-60" value="ingest &lt;br&gt;Modeling &lt;br&gt;Modules configuration" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="-355" y="1110" width="115" height="70" as="geometry" />
+          <mxGeometry x="-100.5" y="1060" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-59" value="configure Modeling Modules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-355" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="-100.5" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

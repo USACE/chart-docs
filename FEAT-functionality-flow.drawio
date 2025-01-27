@@ -459,9 +459,6 @@
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wG7Q8QUlYoH2plEu2OoV-70" source="wG7Q8QUlYoH2plEu2OoV-72" target="wG7Q8QUlYoH2plEu2OoV-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="igHUlAx1EoBNNh3pSHyk-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-70" source="wG7Q8QUlYoH2plEu2OoV-72" target="igHUlAx1EoBNNh3pSHyk-126">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-72" value="action" style="rounded=0;whiteSpace=wrap;html=1;" parent="wG7Q8QUlYoH2plEu2OoV-70" vertex="1">
           <mxGeometry x="175" y="400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -491,9 +488,6 @@
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-83" value="Each Modeling Module must identified the required set of Data Modules needed for its internal process" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wG7Q8QUlYoH2plEu2OoV-70" vertex="1">
           <mxGeometry x="383" y="80" width="142.5" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="wG7Q8QUlYoH2plEu2OoV-84" value="send finish status / queue antecedent modules" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wG7Q8QUlYoH2plEu2OoV-70" vertex="1">
-          <mxGeometry x="310" y="370" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-70" source="igHUlAx1EoBNNh3pSHyk-9" target="wG7Q8QUlYoH2plEu2OoV-78">
           <mxGeometry relative="1" as="geometry">
@@ -528,8 +522,8 @@
         <mxCell id="igHUlAx1EoBNNh3pSHyk-126" value="API Store" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
           <mxGeometry x="360" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="igHUlAx1EoBNNh3pSHyk-179" value="store output and generate keys specific to study" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
-          <mxGeometry x="310" y="540" width="110" height="75" as="geometry" />
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-179" value="store output&amp;nbsp; and generate keys specific to study; queue up antecedent modules" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-70">
+          <mxGeometry x="310" y="550" width="110" height="75" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-90" value="* An &quot;alternative&quot; is a model specification and doesn&#39;t require new data, only modification of data from the previous three modules&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1160" y="760" width="210" height="55" as="geometry" />

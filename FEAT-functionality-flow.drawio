@@ -715,7 +715,7 @@
           <mxGeometry x="338" y="510" width="104" height="60" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-23" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1160" y="1830" width="550" height="460" as="geometry" />
+          <mxGeometry x="-1200" y="1850" width="550" height="460" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATA MODULE: HAZARD STORM &lt;br&gt;UI WORKFLOW&lt;/h1&gt;&lt;p&gt;Providing a basic workflow to generate hazard data on the UI&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-23">
           <mxGeometry x="310" y="5" width="240" height="150" as="geometry" />

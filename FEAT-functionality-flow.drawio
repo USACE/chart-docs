@@ -412,7 +412,7 @@
           <mxGeometry x="415" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-125" value="A concrete instantiation is a lifecycle Finished condition includes i" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-39">
-          <mxGeometry x="445" y="510" width="130" height="60" as="geometry" />
+          <mxGeometry x="440" y="510" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-39" source="igHUlAx1EoBNNh3pSHyk-129" target="igHUlAx1EoBNNh3pSHyk-133">
           <mxGeometry relative="1" as="geometry" />

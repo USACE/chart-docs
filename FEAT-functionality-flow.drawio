@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.9" pages="3">
   <diagram name="Page-1" id="qRDFToGieXWFHNiyiY_J">
-    <mxGraphModel dx="3828" dy="2323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3753" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -854,6 +854,60 @@
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-131" value="generate modeling parameters" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-195" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-1790" y="1850" width="560" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-196" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATA MODULE: BASIC HAZARD TIDE UI WORKFLOW&lt;/h1&gt;&lt;p&gt;Providing a basic workflow to generate hazard data on the UI&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-195">
+          <mxGeometry x="300" y="20" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="igHUlAx1EoBNNh3pSHyk-195" source="igHUlAx1EoBNNh3pSHyk-198" target="igHUlAx1EoBNNh3pSHyk-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-198" value="NOAA station" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-195">
+          <mxGeometry x="20" y="195" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="igHUlAx1EoBNNh3pSHyk-195" target="igHUlAx1EoBNNh3pSHyk-213">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="415" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-201" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="igHUlAx1EoBNNh3pSHyk-195" source="igHUlAx1EoBNNh3pSHyk-202" target="igHUlAx1EoBNNh3pSHyk-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-202" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-195">
+          <mxGeometry x="167.5" y="75" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-203" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-195">
+          <mxGeometry x="167.5" y="415" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="igHUlAx1EoBNNh3pSHyk-195" source="igHUlAx1EoBNNh3pSHyk-205" target="igHUlAx1EoBNNh3pSHyk-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-205" value="NOAA API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-195">
+          <mxGeometry x="325" y="195" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-216" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="igHUlAx1EoBNNh3pSHyk-195" source="igHUlAx1EoBNNh3pSHyk-207" target="igHUlAx1EoBNNh3pSHyk-215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-207" value="generate tides" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-195">
+          <mxGeometry x="167.5" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-210" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="igHUlAx1EoBNNh3pSHyk-195" target="igHUlAx1EoBNNh3pSHyk-213">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="345" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-212" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="igHUlAx1EoBNNh3pSHyk-195" target="igHUlAx1EoBNNh3pSHyk-209">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="345" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="igHUlAx1EoBNNh3pSHyk-195" source="igHUlAx1EoBNNh3pSHyk-215" target="igHUlAx1EoBNNh3pSHyk-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-215" value="convert to standard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-195">
+          <mxGeometry x="167.5" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

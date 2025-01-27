@@ -694,7 +694,7 @@
           <mxGeometry x="339" y="510" width="104" height="60" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-23" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1130" y="1960" width="570" height="650" as="geometry" />
+          <mxGeometry x="-1130" y="1850" width="570" height="650" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATA MODULE BASIC&lt;/h1&gt;&lt;p&gt;Providing a basic workflow to generate data&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="igHUlAx1EoBNNh3pSHyk-23">
           <mxGeometry x="370" y="30" width="180" height="120" as="geometry" />
@@ -745,7 +745,7 @@
           <mxGeometry x="335" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-25" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-465.5" y="1820" width="505.5" height="600" as="geometry" />
+          <mxGeometry x="-491" y="1850" width="505.5" height="600" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="igHUlAx1EoBNNh3pSHyk-25" source="igHUlAx1EoBNNh3pSHyk-27" target="igHUlAx1EoBNNh3pSHyk-36">
           <mxGeometry relative="1" as="geometry" />

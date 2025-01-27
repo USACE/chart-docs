@@ -378,7 +378,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-93" value="identify missing modules&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wG7Q8QUlYoH2plEu2OoV-39">
-          <mxGeometry x="10" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wG7Q8QUlYoH2plEu2OoV-39" source="igHUlAx1EoBNNh3pSHyk-97" target="igHUlAx1EoBNNh3pSHyk-99">
           <mxGeometry relative="1" as="geometry" />
@@ -407,7 +407,7 @@
           <mxGeometry x="350" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-70" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="-1660" y="920" width="530" height="700" as="geometry" />
+          <mxGeometry x="-1660" y="920" width="530" height="740" as="geometry" />
         </mxCell>
         <mxCell id="wG7Q8QUlYoH2plEu2OoV-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wG7Q8QUlYoH2plEu2OoV-70" source="wG7Q8QUlYoH2plEu2OoV-72" target="wG7Q8QUlYoH2plEu2OoV-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -755,6 +755,9 @@
         </mxCell>
         <mxCell id="igHUlAx1EoBNNh3pSHyk-59" value="configure Modeling Modules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100.5" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igHUlAx1EoBNNh3pSHyk-107" value="The output data from a Modeling Module must follow a fluent interface" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="1670" width="142.5" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

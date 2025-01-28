@@ -860,10 +860,10 @@
           <mxGeometry x="220" y="1230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VxQ72Vmoz1WPKJ9ayCze-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="740" width="550" height="690" as="geometry" />
+          <mxGeometry x="640" y="740" width="500" height="620" as="geometry" />
         </mxCell>
         <mxCell id="VxQ72Vmoz1WPKJ9ayCze-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATA MODULE: POPULATE&lt;br&gt;STRUCTURES FROM NSI&lt;br&gt;UI WORKFLOW&lt;/h1&gt;&lt;p&gt;Providing a basic workflow to generate model area data on the UI&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="VxQ72Vmoz1WPKJ9ayCze-1">
-          <mxGeometry x="310" y="5" width="240" height="235" as="geometry" />
+          <mxGeometry x="260" width="240" height="235" as="geometry" />
         </mxCell>
         <mxCell id="VxQ72Vmoz1WPKJ9ayCze-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VxQ72Vmoz1WPKJ9ayCze-1">
           <mxGeometry relative="1" as="geometry">
@@ -874,10 +874,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VxQ72Vmoz1WPKJ9ayCze-7" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VxQ72Vmoz1WPKJ9ayCze-1">
-          <mxGeometry x="100" y="92.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="70" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VxQ72Vmoz1WPKJ9ayCze-8" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VxQ72Vmoz1WPKJ9ayCze-1">
-          <mxGeometry x="100" y="517.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="70" y="515" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VxQ72Vmoz1WPKJ9ayCze-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VxQ72Vmoz1WPKJ9ayCze-1">
           <mxGeometry relative="1" as="geometry">
@@ -888,31 +888,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VxQ72Vmoz1WPKJ9ayCze-13" value="convert to standard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VxQ72Vmoz1WPKJ9ayCze-1">
-          <mxGeometry x="100" y="412.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_fLnw92gtFn39gsNtdQV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VxQ72Vmoz1WPKJ9ayCze-1" source="_fLnw92gtFn39gsNtdQV-1" target="_fLnw92gtFn39gsNtdQV-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_fLnw92gtFn39gsNtdQV-1" value="FEAT API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="VxQ72Vmoz1WPKJ9ayCze-1">
-          <mxGeometry x="282.5" y="212.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="252.5" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_fLnw92gtFn39gsNtdQV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VxQ72Vmoz1WPKJ9ayCze-1" source="_fLnw92gtFn39gsNtdQV-2" target="_fLnw92gtFn39gsNtdQV-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_fLnw92gtFn39gsNtdQV-2" value="query reaches" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VxQ72Vmoz1WPKJ9ayCze-1">
-          <mxGeometry x="100" y="222.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_fLnw92gtFn39gsNtdQV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VxQ72Vmoz1WPKJ9ayCze-1" source="_fLnw92gtFn39gsNtdQV-4" target="VxQ72Vmoz1WPKJ9ayCze-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_fLnw92gtFn39gsNtdQV-4" value="query structures" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VxQ72Vmoz1WPKJ9ayCze-1">
-          <mxGeometry x="100" y="322.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_fLnw92gtFn39gsNtdQV-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VxQ72Vmoz1WPKJ9ayCze-1" source="_fLnw92gtFn39gsNtdQV-7" target="_fLnw92gtFn39gsNtdQV-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_fLnw92gtFn39gsNtdQV-7" value="NSI API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="VxQ72Vmoz1WPKJ9ayCze-1">
-          <mxGeometry x="282.5" y="312.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="252.5" y="310" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

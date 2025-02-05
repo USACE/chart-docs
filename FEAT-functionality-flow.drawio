@@ -931,8 +931,10 @@
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FLqoL_bCN30ZNEKw-MR3-2" target="FLqoL_bCN30ZNEKw-MR3-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FLqoL_bCN30ZNEKw-MR3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FLqoL_bCN30ZNEKw-MR3-2" target="FLqoL_bCN30ZNEKw-MR3-38">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="FLqoL_bCN30ZNEKw-MR3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FLqoL_bCN30ZNEKw-MR3-2" target="FLqoL_bCN30ZNEKw-MR3-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-2" value="armoring decision" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="370" width="120" height="60" as="geometry" />
@@ -944,7 +946,7 @@
           <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-220" width="330" height="250" as="geometry" />
+          <mxGeometry x="1000" y="-430" width="330" height="250" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="FLqoL_bCN30ZNEKw-MR3-9">
           <mxGeometry x="50" y="30" width="20" height="20" as="geometry" />
@@ -996,18 +998,15 @@
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1110" y="100" as="sourcePoint" />
-            <mxPoint x="1110" y="-320" as="targetPoint" />
+            <mxPoint x="1110" y="-110" as="sourcePoint" />
+            <mxPoint x="1110" y="-530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FLqoL_bCN30ZNEKw-MR3-27" target="FLqoL_bCN30ZNEKw-MR3-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-27" value="lot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="965" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FLqoL_bCN30ZNEKw-MR3-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FLqoL_bCN30ZNEKw-MR3-28" target="FLqoL_bCN30ZNEKw-MR3-27">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="545" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-28" value="asset inv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1155" y="370" width="120" height="60" as="geometry" />
@@ -1028,7 +1027,7 @@
           <mxGeometry x="20" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-38" value="cost of armoring" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FLqoL_bCN30ZNEKw-MR3-40" target="FLqoL_bCN30ZNEKw-MR3-28">
           <mxGeometry relative="1" as="geometry" />

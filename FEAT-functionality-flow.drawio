@@ -1006,7 +1006,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-28" value="asset inv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1085" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-32" value="erosion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="170" y="50" width="60" height="30" as="geometry" />
@@ -1024,7 +1024,7 @@
           <mxGeometry x="20" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-38" value="cost of armoring" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FLqoL_bCN30ZNEKw-MR3-40" target="FLqoL_bCN30ZNEKw-MR3-28">
           <mxGeometry relative="1" as="geometry" />
@@ -1033,11 +1033,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-40" value="rebuilding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1345" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="1260" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-41" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="790" as="sourcePoint" />
+            <mxPoint x="750" y="890" as="sourcePoint" />
             <mxPoint x="750" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1045,16 +1045,16 @@
           <mxGeometry x="400" y="160" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-44" value="consequence" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="880" y="170" width="60" height="30" as="geometry" />
+          <mxGeometry x="820" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FLqoL_bCN30ZNEKw-MR3-46" target="FLqoL_bCN30ZNEKw-MR3-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-46" value="damage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1085" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-57" value="cost of rebuilding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1345" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="1260" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-59" value="add vs modify armor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="440" width="60" height="30" as="geometry" />
@@ -1090,7 +1090,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Cgjss2zRu9e-2TccCf_O-3" value="asset inv init" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="1095" y="240" width="100" height="60" as="geometry" />
+          <mxGeometry x="1010" y="240" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cgjss2zRu9e-2TccCf_O-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cgjss2zRu9e-2TccCf_O-5" target="FLqoL_bCN30ZNEKw-MR3-1">
           <mxGeometry relative="1" as="geometry" />

@@ -1063,12 +1063,6 @@
         <mxCell id="FLqoL_bCN30ZNEKw-MR3-59" value="add vs modify armor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="440" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0pc3I79JAjBK4gRA1uvR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pc3I79JAjBK4gRA1uvR-2" target="FLqoL_bCN30ZNEKw-MR3-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0pc3I79JAjBK4gRA1uvR-2" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="555" y="860" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="0pc3I79JAjBK4gRA1uvR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0pc3I79JAjBK4gRA1uvR-5" target="0pc3I79JAjBK4gRA1uvR-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>

@@ -918,7 +918,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="98G4tnX7pPPvS2P05E_O" name="modeling">
-    <mxGraphModel dx="1941" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1494" dy="1528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1024,8 +1024,8 @@
         <mxCell id="iTD_XDX46OaNwv72Yge6-50" value="cost / timing" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;" parent="iTD_XDX46OaNwv72Yge6-1" vertex="1">
           <mxGeometry x="230" y="145" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iTD_XDX46OaNwv72Yge6-56" value="repair | partial repair | no repair" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="iTD_XDX46OaNwv72Yge6-1" vertex="1">
-          <mxGeometry x="215" y="325" width="115" height="30" as="geometry" />
+        <mxCell id="iTD_XDX46OaNwv72Yge6-56" value="Includes (1) repair, (2) partial repair, and (3) no repair" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="iTD_XDX46OaNwv72Yge6-1" vertex="1">
+          <mxGeometry x="220" y="325" width="115" height="55" as="geometry" />
         </mxCell>
         <mxCell id="iTD_XDX46OaNwv72Yge6-63" value="cost of rebuilding" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;" parent="iTD_XDX46OaNwv72Yge6-1" vertex="1">
           <mxGeometry x="1165" y="145" width="100" height="60" as="geometry" />

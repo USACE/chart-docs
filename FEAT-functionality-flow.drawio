@@ -918,7 +918,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="98G4tnX7pPPvS2P05E_O" name="modeling">
-    <mxGraphModel dx="1854" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1716" dy="1676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1218,7 +1218,7 @@
           <mxGeometry x="680" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cgjss2zRu9e-2TccCf_O-33" value="add vs modify armor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Cgjss2zRu9e-2TccCf_O-10" vertex="1">
-          <mxGeometry x="220" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="310" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cgjss2zRu9e-2TccCf_O-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Cgjss2zRu9e-2TccCf_O-10" source="Cgjss2zRu9e-2TccCf_O-35" target="Cgjss2zRu9e-2TccCf_O-15" edge="1">
           <mxGeometry relative="1" as="geometry" />

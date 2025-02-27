@@ -918,7 +918,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="98G4tnX7pPPvS2P05E_O" name="modeling">
-    <mxGraphModel dx="1716" dy="1676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1991" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1021,13 +1021,13 @@
         <mxCell id="iTD_XDX46OaNwv72Yge6-43" value="failure threshold" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="iTD_XDX46OaNwv72Yge6-1" vertex="1">
           <mxGeometry x="470" y="195" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iTD_XDX46OaNwv72Yge6-50" value="cost / timing" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;" parent="iTD_XDX46OaNwv72Yge6-1" vertex="1">
+        <mxCell id="iTD_XDX46OaNwv72Yge6-50" value="cost / timing" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="iTD_XDX46OaNwv72Yge6-1" vertex="1">
           <mxGeometry x="230" y="145" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iTD_XDX46OaNwv72Yge6-56" value="Includes (1) repair, (2) partial repair, and (3) no repair" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="iTD_XDX46OaNwv72Yge6-1" vertex="1">
           <mxGeometry x="220" y="325" width="115" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="iTD_XDX46OaNwv72Yge6-63" value="costs" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;" parent="iTD_XDX46OaNwv72Yge6-1" vertex="1">
+        <mxCell id="iTD_XDX46OaNwv72Yge6-63" value="costs" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="iTD_XDX46OaNwv72Yge6-1" vertex="1">
           <mxGeometry x="1165" y="145" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tzStCEb4WcNzNo7rRH_b-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="iTD_XDX46OaNwv72Yge6-1" source="tzStCEb4WcNzNo7rRH_b-1" target="iTD_XDX46OaNwv72Yge6-22" edge="1">
@@ -1051,7 +1051,7 @@
         <mxCell id="tzStCEb4WcNzNo7rRH_b-28" value="lifeloss" style="rounded=0;whiteSpace=wrap;html=1;" parent="iTD_XDX46OaNwv72Yge6-1" vertex="1">
           <mxGeometry x="925" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tzStCEb4WcNzNo7rRH_b-30" value="lifeloss" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;" parent="iTD_XDX46OaNwv72Yge6-1" vertex="1">
+        <mxCell id="tzStCEb4WcNzNo7rRH_b-30" value="lifeloss" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="iTD_XDX46OaNwv72Yge6-1" vertex="1">
           <mxGeometry x="935" y="690" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DB2CQKgi3CjUKSzoyZWc-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="iTD_XDX46OaNwv72Yge6-1">
@@ -1156,9 +1156,10 @@
         <mxCell id="Cgjss2zRu9e-2TccCf_O-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="Cgjss2zRu9e-2TccCf_O-10" source="Cgjss2zRu9e-2TccCf_O-15" target="Cgjss2zRu9e-2TccCf_O-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cgjss2zRu9e-2TccCf_O-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Cgjss2zRu9e-2TccCf_O-10" source="Cgjss2zRu9e-2TccCf_O-15" target="Cgjss2zRu9e-2TccCf_O-23" edge="1">
+        <mxCell id="Cgjss2zRu9e-2TccCf_O-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Cgjss2zRu9e-2TccCf_O-10" source="Cgjss2zRu9e-2TccCf_O-15" target="DB2CQKgi3CjUKSzoyZWc-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="480" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cgjss2zRu9e-2TccCf_O-15" value="armoring decision" style="rounded=0;whiteSpace=wrap;html=1;" parent="Cgjss2zRu9e-2TccCf_O-10" vertex="1">
@@ -1184,9 +1185,6 @@
         </mxCell>
         <mxCell id="Cgjss2zRu9e-2TccCf_O-22" value="morphology" style="rounded=0;whiteSpace=wrap;html=1;" parent="Cgjss2zRu9e-2TccCf_O-10" vertex="1">
           <mxGeometry x="225" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Cgjss2zRu9e-2TccCf_O-23" value="cost of armoring" style="rounded=0;whiteSpace=wrap;html=1;" parent="Cgjss2zRu9e-2TccCf_O-10" vertex="1">
-          <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cgjss2zRu9e-2TccCf_O-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Cgjss2zRu9e-2TccCf_O-10" source="Cgjss2zRu9e-2TccCf_O-26" target="Cgjss2zRu9e-2TccCf_O-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1247,8 +1245,11 @@
         <mxCell id="Cgjss2zRu9e-2TccCf_O-42" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Erosion Modeling Process&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="Cgjss2zRu9e-2TccCf_O-10" vertex="1">
           <mxGeometry x="850" y="560" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="DB2CQKgi3CjUKSzoyZWc-4" value="costs" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Cgjss2zRu9e-2TccCf_O-10">
+        <mxCell id="DB2CQKgi3CjUKSzoyZWc-4" value="building reconstruction costs" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Cgjss2zRu9e-2TccCf_O-10">
           <mxGeometry x="960" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DB2CQKgi3CjUKSzoyZWc-5" value="armoring &lt;br&gt;costs" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Cgjss2zRu9e-2TccCf_O-10">
+          <mxGeometry x="470" y="240" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cgjss2zRu9e-2TccCf_O-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Cgjss2zRu9e-2TccCf_O-10" target="Cgjss2zRu9e-2TccCf_O-10" edge="1">
           <mxGeometry relative="1" as="geometry" />

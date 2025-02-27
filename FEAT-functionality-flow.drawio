@@ -918,7 +918,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="98G4tnX7pPPvS2P05E_O" name="modeling">
-    <mxGraphModel dx="1716" dy="1676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2419" dy="2144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -980,7 +980,7 @@
           <mxGeometry x="1155" y="265" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iTD_XDX46OaNwv72Yge6-19" value="hazard + system performance" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="iTD_XDX46OaNwv72Yge6-1" vertex="1">
-          <mxGeometry x="220" y="10" width="210" height="50" as="geometry" />
+          <mxGeometry x="220" y="55" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iTD_XDX46OaNwv72Yge6-20" value="consequence" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="iTD_XDX46OaNwv72Yge6-1" vertex="1">
           <mxGeometry x="925" y="65" width="60" height="30" as="geometry" />

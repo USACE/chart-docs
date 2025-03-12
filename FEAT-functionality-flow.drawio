@@ -1630,13 +1630,13 @@
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-25" value="Analysis Name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="25" y="30" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-28" value="Expected Annual Damage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
+        <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-28" value="Expected Damage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="15" y="265" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-35" value="Associated Reach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="367.5" y="30" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-39" value="Average Annual Lifeloss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
+        <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-39" value="Average Lifeloss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="20" y="315" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-41" value="Associated Mesures" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
@@ -1684,7 +1684,7 @@
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-17" value="user-input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="402.5" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-18" value="Total cost for measures" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
+        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-18" value="Cost" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry y="185" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-20" value="LL value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
@@ -1723,7 +1723,7 @@
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-31" value="LL value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="905" y="315" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-32" value="Present Value Damage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
+        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-32" value="Expected Annual Damage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="22.5" y="545" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-33" value="Average Annual Lifeloss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">

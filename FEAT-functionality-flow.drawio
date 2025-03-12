@@ -1625,7 +1625,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-22" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="350" width="470" height="640" as="geometry" />
+          <mxGeometry x="-90" y="350" width="570" height="640" as="geometry" />
         </mxCell>
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-25" value="Name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="25" y="30" width="120" height="30" as="geometry" />
@@ -1652,10 +1652,16 @@
           <mxGeometry x="190" y="220" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-43" value="Upper bound cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="325" y="220" width="120" height="30" as="geometry" />
+          <mxGeometry x="440" y="220" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-1" value="Cost for measures" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="25" y="220" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-2" value="Lower bound" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
+          <mxGeometry x="175" y="150" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-4" value="Upper bound" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
+          <mxGeometry x="420" y="150" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-23" value="COST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="-180" y="500" width="60" height="30" as="geometry" />

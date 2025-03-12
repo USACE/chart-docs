@@ -1654,7 +1654,7 @@
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-39" value="LL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="220" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-41" value="Measures - plural" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
+        <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-41" value="Select measures - plural" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="40" y="200" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-42" value="Lower bound cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">

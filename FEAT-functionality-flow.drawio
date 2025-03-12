@@ -1646,13 +1646,13 @@
           <mxGeometry x="357.5" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-43" value="Cost value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="512.5" y="190" width="120" height="30" as="geometry" />
+          <mxGeometry x="525" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-2" value="Lower bound" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="350" y="150" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-4" value="Upper bound" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="497.5" y="150" width="150" height="30" as="geometry" />
+          <mxGeometry x="510" y="150" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-6" value="Cost value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="192.5" y="190" width="120" height="30" as="geometry" />

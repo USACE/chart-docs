@@ -1542,7 +1542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Uyq-mSEscH3ElliQXV9J" name="affordability-analysis">
-    <mxGraphModel dx="2107" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1817" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1627,12 +1627,6 @@
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-22" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-90" y="350" width="470" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-23" value="COST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="25" y="150" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-24" value="CONSEQUENCES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="50" y="370" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-25" value="Name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="25" y="30" width="120" height="30" as="geometry" />
         </mxCell>
@@ -1643,25 +1637,31 @@
           <mxGeometry x="250" y="420" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-28" value="EAD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="60" y="500" width="60" height="30" as="geometry" />
+          <mxGeometry x="50" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-34" value="REACH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="30" y="90" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-35" value="Reach Name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="180" y="90" width="120" height="30" as="geometry" />
+        <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-35" value="Associated Reach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
+          <mxGeometry x="190" y="30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-39" value="LL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="220" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-41" value="Select measures - plural" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="40" y="200" width="120" height="30" as="geometry" />
+        <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-41" value="Associated Mesures" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
+          <mxGeometry x="340" y="30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-42" value="Lower bound cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="40" y="260" width="120" height="30" as="geometry" />
+          <mxGeometry x="190" y="220" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-43" value="Upper bound cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="40" y="320" width="120" height="30" as="geometry" />
+          <mxGeometry x="325" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-1" value="Cost for measures" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
+          <mxGeometry x="25" y="220" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-23" value="COST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="-180" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-24" value="CONSEQUENCES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="-250" y="690" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

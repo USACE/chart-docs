@@ -1795,8 +1795,8 @@
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-61" value="Annual Cost" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="7.5" y="475" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-62" value="PRESENT VALUE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="25" y="120" width="115" height="30" as="geometry" />
+        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-62" value="CONSTANT DOLLAR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
+          <mxGeometry x="25" y="120" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-63" value="ANNUALIZED" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="32.5" y="395" width="115" height="30" as="geometry" />

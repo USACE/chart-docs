@@ -1542,7 +1542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Uyq-mSEscH3ElliQXV9J" name="affordability-analysis">
-    <mxGraphModel dx="2526" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2329" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1643,22 +1643,16 @@
           <mxGeometry x="207.5" y="30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-42" value="Cost value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="347.5" y="185" width="120" height="30" as="geometry" />
+          <mxGeometry x="167.5" y="185" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-43" value="Cost value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="515" y="185" width="120" height="30" as="geometry" />
+          <mxGeometry x="335" y="185" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-2" value="Lower bound" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="340" y="145" width="150" height="30" as="geometry" />
+          <mxGeometry x="160" y="145" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-4" value="Upper bound" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="500" y="145" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-6" value="Cost value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="182.5" y="185" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-7" value="Average" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="165" y="145" width="150" height="30" as="geometry" />
+          <mxGeometry x="320" y="145" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-8" value="user-input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="227.5" width="150" height="30" as="geometry" />
@@ -1787,22 +1781,16 @@
           <mxGeometry x="57.5" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-55" value="Cost value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="355" y="475" width="120" height="30" as="geometry" />
+          <mxGeometry x="180" y="475" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-56" value="Cost value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="522.5" y="475" width="120" height="30" as="geometry" />
+          <mxGeometry x="347.5" y="475" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-57" value="Lower bound" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="347.5" y="435" width="150" height="30" as="geometry" />
+          <mxGeometry x="172.5" y="435" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-58" value="Upper bound" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="507.5" y="435" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-59" value="Cost value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="190" y="475" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-60" value="Average" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
-          <mxGeometry x="172.5" y="435" width="150" height="30" as="geometry" />
+          <mxGeometry x="332.5" y="435" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPQSUPWEiLKoE3Y-cvFp-61" value="Annual Cost" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xhsz-ny1C7Yz5XL77Jtd-22">
           <mxGeometry x="7.5" y="475" width="150" height="30" as="geometry" />
@@ -1824,6 +1812,18 @@
         </mxCell>
         <mxCell id="Xhsz-ny1C7Yz5XL77Jtd-24" value="CONSEQUENCES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="-500" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-6" value="Cost value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-562.5" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-7" value="Average" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="350" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-60" value="Average" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="850" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QPQSUPWEiLKoE3Y-cvFp-59" value="Cost value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-572.5" y="890" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

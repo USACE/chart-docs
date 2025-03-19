@@ -708,7 +708,7 @@
           <mxGeometry x="71.25" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oqIqjcud8my2SaSkMMXF-27" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="90" width="520" height="700" as="geometry" />
+          <mxGeometry x="30" y="90" width="450" height="640" as="geometry" />
         </mxCell>
         <mxCell id="oqIqjcud8my2SaSkMMXF-28" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATA MODULE: HAZARD TIDE &lt;br&gt;UI WORKFLOW&lt;/h1&gt;&lt;p&gt;Providing a basic workflow to generate tidal data on the UI&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="oqIqjcud8my2SaSkMMXF-27" vertex="1">
           <mxGeometry x="220" y="20" width="210" height="140" as="geometry" />
@@ -717,7 +717,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oqIqjcud8my2SaSkMMXF-30" value="NOAA station" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="oqIqjcud8my2SaSkMMXF-27" vertex="1">
-          <mxGeometry x="237.5" y="181" width="80" height="80" as="geometry" />
+          <mxGeometry x="227.5" y="181" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oqIqjcud8my2SaSkMMXF-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="oqIqjcud8my2SaSkMMXF-27" edge="1">
           <mxGeometry relative="1" as="geometry">

@@ -619,51 +619,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oqIqjcud8my2SaSkMMXF-1" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="850" y="100" width="550" height="460" as="geometry" />
-        </mxCell>
-        <mxCell id="oqIqjcud8my2SaSkMMXF-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATA MODULE: HAZARD STORM &lt;br&gt;UI WORKFLOW&lt;/h1&gt;&lt;p&gt;Providing a basic workflow to generate hazard data on the UI&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="oqIqjcud8my2SaSkMMXF-1" vertex="1">
-          <mxGeometry x="310" y="5" width="240" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="oqIqjcud8my2SaSkMMXF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="oqIqjcud8my2SaSkMMXF-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="235" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oqIqjcud8my2SaSkMMXF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="oqIqjcud8my2SaSkMMXF-1" source="oqIqjcud8my2SaSkMMXF-5" target="oqIqjcud8my2SaSkMMXF-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oqIqjcud8my2SaSkMMXF-5" value="Manual CHS Data" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="oqIqjcud8my2SaSkMMXF-1" vertex="1">
-          <mxGeometry x="30" y="200" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="oqIqjcud8my2SaSkMMXF-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="oqIqjcud8my2SaSkMMXF-1" source="oqIqjcud8my2SaSkMMXF-7" target="oqIqjcud8my2SaSkMMXF-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oqIqjcud8my2SaSkMMXF-7" value="start" style="ellipse;whiteSpace=wrap;html=1;" parent="oqIqjcud8my2SaSkMMXF-1" vertex="1">
-          <mxGeometry x="167.5" y="75" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="oqIqjcud8my2SaSkMMXF-8" value="end" style="ellipse;whiteSpace=wrap;html=1;" parent="oqIqjcud8my2SaSkMMXF-1" vertex="1">
-          <mxGeometry x="167.5" y="315" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="oqIqjcud8my2SaSkMMXF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="oqIqjcud8my2SaSkMMXF-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="287.5" y="234.9999999999991" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oqIqjcud8my2SaSkMMXF-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="oqIqjcud8my2SaSkMMXF-1" source="oqIqjcud8my2SaSkMMXF-11" target="oqIqjcud8my2SaSkMMXF-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oqIqjcud8my2SaSkMMXF-11" value="CHS API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="oqIqjcud8my2SaSkMMXF-1" vertex="1">
-          <mxGeometry x="350" y="200" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="oqIqjcud8my2SaSkMMXF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="oqIqjcud8my2SaSkMMXF-1" source="oqIqjcud8my2SaSkMMXF-13" target="oqIqjcud8my2SaSkMMXF-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oqIqjcud8my2SaSkMMXF-13" value="convert to standard" style="rounded=0;whiteSpace=wrap;html=1;" parent="oqIqjcud8my2SaSkMMXF-1" vertex="1">
-          <mxGeometry x="167.5" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="oqIqjcud8my2SaSkMMXF-14" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="1329" y="90" width="501" height="790" as="geometry" />
+          <mxGeometry x="2220" y="130" width="501" height="790" as="geometry" />
         </mxCell>
         <mxCell id="ulj6EU_i6JCMafSlekSL-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="oqIqjcud8my2SaSkMMXF-14" source="oqIqjcud8my2SaSkMMXF-16" target="ulj6EU_i6JCMafSlekSL-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -708,7 +665,7 @@
           <mxGeometry x="71.25" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oqIqjcud8my2SaSkMMXF-27" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="90" width="450" height="640" as="geometry" />
+          <mxGeometry x="30" y="40" width="450" height="640" as="geometry" />
         </mxCell>
         <mxCell id="oqIqjcud8my2SaSkMMXF-28" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATA MODULE: HAZARD TIDE &lt;br&gt;UI WORKFLOW&lt;/h1&gt;&lt;p&gt;Providing a basic workflow to generate tidal data on the UI&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="oqIqjcud8my2SaSkMMXF-27" vertex="1">
           <mxGeometry x="220" y="20" width="210" height="140" as="geometry" />
@@ -792,7 +749,7 @@
           <mxGeometry x="210" y="2180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VxQ72Vmoz1WPKJ9ayCze-1" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="740" width="500" height="620" as="geometry" />
+          <mxGeometry x="860" y="1100" width="500" height="620" as="geometry" />
         </mxCell>
         <mxCell id="VxQ72Vmoz1WPKJ9ayCze-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATA MODULE: POPULATE&lt;br&gt;STRUCTURES FROM NSI&lt;br&gt;UI WORKFLOW&lt;/h1&gt;&lt;p&gt;Providing a basic workflow to generate model area data on the UI&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="VxQ72Vmoz1WPKJ9ayCze-1" vertex="1">
           <mxGeometry x="260" width="240" height="235" as="geometry" />
@@ -845,6 +802,126 @@
         </mxCell>
         <mxCell id="_fLnw92gtFn39gsNtdQV-7" value="NSI API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="VxQ72Vmoz1WPKJ9ayCze-1" vertex="1">
           <mxGeometry x="252.5" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="40" width="450" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATA MODULE: HAZARD STORM&lt;br&gt;UI WORKFLOW&lt;/h1&gt;&lt;p&gt;Providing a basic workflow to generate tidal data on the UI&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="KRQfPLCXKW6NSeyixuoQ-9">
+          <mxGeometry x="220" y="20" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-9" source="KRQfPLCXKW6NSeyixuoQ-12" target="KRQfPLCXKW6NSeyixuoQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-12" value="NOAA station" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="KRQfPLCXKW6NSeyixuoQ-9">
+          <mxGeometry x="227.5" y="181" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="415" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-9" source="KRQfPLCXKW6NSeyixuoQ-15" target="KRQfPLCXKW6NSeyixuoQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-15" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="KRQfPLCXKW6NSeyixuoQ-9">
+          <mxGeometry x="50" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-16" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="KRQfPLCXKW6NSeyixuoQ-9">
+          <mxGeometry x="50" y="515" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-9" source="KRQfPLCXKW6NSeyixuoQ-18" target="KRQfPLCXKW6NSeyixuoQ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-18" value="CHS API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="KRQfPLCXKW6NSeyixuoQ-9">
+          <mxGeometry x="207.5" y="293" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-9" source="KRQfPLCXKW6NSeyixuoQ-20" target="KRQfPLCXKW6NSeyixuoQ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-20" value="identify NOAA stations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KRQfPLCXKW6NSeyixuoQ-9">
+          <mxGeometry x="50" y="191" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="345" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="345" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-9" source="KRQfPLCXKW6NSeyixuoQ-24" target="KRQfPLCXKW6NSeyixuoQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-24" value="convert to standard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KRQfPLCXKW6NSeyixuoQ-9">
+          <mxGeometry x="50" y="414" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-9" source="KRQfPLCXKW6NSeyixuoQ-26" target="KRQfPLCXKW6NSeyixuoQ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-26" value="ingest storm data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KRQfPLCXKW6NSeyixuoQ-9">
+          <mxGeometry x="50" y="303" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-27" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="40" width="450" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-28" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DATA MODULE: HAZARD LOCAL INGESTION&lt;/h1&gt;&lt;p&gt;Ingest local files&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="KRQfPLCXKW6NSeyixuoQ-27">
+          <mxGeometry x="220" y="20" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-27" source="KRQfPLCXKW6NSeyixuoQ-30" target="KRQfPLCXKW6NSeyixuoQ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-30" value="tidal data file" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="KRQfPLCXKW6NSeyixuoQ-27">
+          <mxGeometry x="227.5" y="181" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="415" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-27" source="KRQfPLCXKW6NSeyixuoQ-33" target="KRQfPLCXKW6NSeyixuoQ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-33" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="KRQfPLCXKW6NSeyixuoQ-27">
+          <mxGeometry x="50" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-34" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="KRQfPLCXKW6NSeyixuoQ-27">
+          <mxGeometry x="50" y="515" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-27" source="KRQfPLCXKW6NSeyixuoQ-38" target="KRQfPLCXKW6NSeyixuoQ-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-38" value="ingest tidal information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KRQfPLCXKW6NSeyixuoQ-27">
+          <mxGeometry x="50" y="191" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="345" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="345" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-27" source="KRQfPLCXKW6NSeyixuoQ-42" target="KRQfPLCXKW6NSeyixuoQ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-42" value="convert to standard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KRQfPLCXKW6NSeyixuoQ-27">
+          <mxGeometry x="50" y="414" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-27" source="KRQfPLCXKW6NSeyixuoQ-44" target="KRQfPLCXKW6NSeyixuoQ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-44" value="ingest storm data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KRQfPLCXKW6NSeyixuoQ-27">
+          <mxGeometry x="50" y="303" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KRQfPLCXKW6NSeyixuoQ-27" source="KRQfPLCXKW6NSeyixuoQ-45" target="KRQfPLCXKW6NSeyixuoQ-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRQfPLCXKW6NSeyixuoQ-45" value="tidal data file" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="KRQfPLCXKW6NSeyixuoQ-27">
+          <mxGeometry x="227.5" y="293" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

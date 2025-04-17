@@ -1461,7 +1461,7 @@
           <mxGeometry x="1250" y="550" width="240" height="210" as="geometry" />
         </mxCell>
         <mxCell id="pPcJVBgsh0Yi89CEUzsf-53" value="&lt;span data-teams=&quot;true&quot;&gt;Eastern VPN problem w/ accessing SCT&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="660" width="240" height="210" as="geometry" />
+          <mxGeometry x="790" y="800" width="220" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

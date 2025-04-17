@@ -1454,6 +1454,9 @@
         <mxCell id="pPcJVBgsh0Yi89CEUzsf-48" value="one-to-one" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1275" y="330" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pPcJVBgsh0Yi89CEUzsf-50" value="Duration -&amp;gt; study duration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="590" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

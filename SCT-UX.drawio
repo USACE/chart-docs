@@ -1379,7 +1379,7 @@
         <mxCell id="pPcJVBgsh0Yi89CEUzsf-18" value="distinct (reaches + shoreline)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pPcJVBgsh0Yi89CEUzsf-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pPcJVBgsh0Yi89CEUzsf-24" value="EAD / LL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="690" width="60" height="30" as="geometry" />
         </mxCell>
       </root>

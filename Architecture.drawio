@@ -244,7 +244,7 @@
         <mxCell id="hQROQaljl50YmxuUpzn9-21" value="PostGIS" style="shape=datastore;whiteSpace=wrap;html=1;" parent="hQROQaljl50YmxuUpzn9-1" vertex="1">
           <mxGeometry x="540" y="550" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hQROQaljl50YmxuUpzn9-22" value="model-library (S3)" style="shape=datastore;whiteSpace=wrap;html=1;" parent="hQROQaljl50YmxuUpzn9-1" vertex="1">
+        <mxCell id="hQROQaljl50YmxuUpzn9-22" value="S3" style="shape=datastore;whiteSpace=wrap;html=1;" parent="hQROQaljl50YmxuUpzn9-1" vertex="1">
           <mxGeometry x="540" y="840" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hQROQaljl50YmxuUpzn9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" parent="hQROQaljl50YmxuUpzn9-1" source="hQROQaljl50YmxuUpzn9-22" target="hQROQaljl50YmxuUpzn9-8" edge="1">

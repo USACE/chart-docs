@@ -1283,7 +1283,7 @@
         <mxCell id="SPz-Ey6yhsOLXLBoShiF-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPz-Ey6yhsOLXLBoShiF-21" target="SPz-Ey6yhsOLXLBoShiF-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SPz-Ey6yhsOLXLBoShiF-21" value="simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SPz-Ey6yhsOLXLBoShiF-21" value="hazard simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="20" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

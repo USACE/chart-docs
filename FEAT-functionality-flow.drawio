@@ -1306,6 +1306,9 @@
         <mxCell id="wx9iEzgTAtYa3ZuCxQj1-3" value="storm_1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="490" y="210" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oPlovfG9RWKWAyR4yjU0-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Delineation between hazard and economic&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -1266,7 +1266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SPz-Ey6yhsOLXLBoShiF-12" value="Time domain" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="640" width="60" height="30" as="geometry" />
+          <mxGeometry x="120" y="650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SPz-Ey6yhsOLXLBoShiF-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPz-Ey6yhsOLXLBoShiF-13" target="SPz-Ey6yhsOLXLBoShiF-14">
           <mxGeometry relative="1" as="geometry" />
@@ -1276,6 +1276,9 @@
         </mxCell>
         <mxCell id="SPz-Ey6yhsOLXLBoShiF-14" value="inv_2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SPz-Ey6yhsOLXLBoShiF-19" value="across life cycle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="650" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

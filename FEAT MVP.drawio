@@ -401,6 +401,13 @@
         <mxCell id="PWqCQV2T9okd39_Wbqqk-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PWqCQV2T9okd39_Wbqqk-4" target="PWqCQV2T9okd39_Wbqqk-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PWqCQV2T9okd39_Wbqqk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PWqCQV2T9okd39_Wbqqk-4" target="PWqCQV2T9okd39_Wbqqk-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-330" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PWqCQV2T9okd39_Wbqqk-4" value="select &lt;br&gt;save points + regional study" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
           <mxGeometry x="-380" y="370" width="100" height="80" as="geometry" />
         </mxCell>
@@ -441,14 +448,7 @@
           <mxGeometry x="480" y="490" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PWqCQV2T9okd39_Wbqqk-18" value="draw benchmark hazard curve" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="745" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="PWqCQV2T9okd39_Wbqqk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PWqCQV2T9okd39_Wbqqk-4" target="PWqCQV2T9okd39_Wbqqk-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-330" y="810" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="-70" y="710" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PWqCQV2T9okd39_Wbqqk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.54;entryY=0.817;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PWqCQV2T9okd39_Wbqqk-18" target="PWqCQV2T9okd39_Wbqqk-15">
           <mxGeometry relative="1" as="geometry" />

@@ -450,7 +450,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PWqCQV2T9okd39_Wbqqk-27" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="580" width="60" height="30" as="geometry" />
+          <mxGeometry x="530" y="590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PWqCQV2T9okd39_Wbqqk-28" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="500" width="60" height="30" as="geometry" />

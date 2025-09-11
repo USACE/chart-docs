@@ -333,7 +333,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P4l895w1dEuE_419ugSx" name="processes">
-    <mxGraphModel dx="2528" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2887" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -348,40 +348,6 @@
         </mxCell>
         <mxCell id="emQ2zlWczhw9_L3te64E-6" value="draw storm track" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="130" y="380" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="emQ2zlWczhw9_L3te64E-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="emQ2zlWczhw9_L3te64E-7" target="emQ2zlWczhw9_L3te64E-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="emQ2zlWczhw9_L3te64E-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="emQ2zlWczhw9_L3te64E-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="1110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="emQ2zlWczhw9_L3te64E-7" value="error viz" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
-          <mxGeometry x="530" y="1000" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="emQ2zlWczhw9_L3te64E-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="emQ2zlWczhw9_L3te64E-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="950" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="emQ2zlWczhw9_L3te64E-15" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1135" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="emQ2zlWczhw9_L3te64E-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="emQ2zlWczhw9_L3te64E-20" target="emQ2zlWczhw9_L3te64E-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="emQ2zlWczhw9_L3te64E-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="emQ2zlWczhw9_L3te64E-20" target="emQ2zlWczhw9_L3te64E-32" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="emQ2zlWczhw9_L3te64E-20" value="selected storms +&lt;br&gt;assoc. probabilities" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
-          <mxGeometry x="62.5" y="995" width="135" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="emQ2zlWczhw9_L3te64E-27" value="bias correction" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="690" y="980" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="emQ2zlWczhw9_L3te64E-32" value="db" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="250" y="1005" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PWqCQV2T9okd39_Wbqqk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PWqCQV2T9okd39_Wbqqk-1" target="emQ2zlWczhw9_L3te64E-6">
           <mxGeometry relative="1" as="geometry" />

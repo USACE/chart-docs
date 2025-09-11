@@ -452,6 +452,9 @@
         <mxCell id="PWqCQV2T9okd39_Wbqqk-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.198;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PWqCQV2T9okd39_Wbqqk-4" target="PWqCQV2T9okd39_Wbqqk-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PWqCQV2T9okd39_Wbqqk-42" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Storm Selection&lt;/h1&gt;&lt;p&gt;Hazard data generation step 1&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="40" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

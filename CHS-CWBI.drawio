@@ -28,6 +28,12 @@
         <mxCell id="_W5xkDv0yz4pwQLLql5I-15" value="Services only H5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_W5xkDv0yz4pwQLLql5I-3">
           <mxGeometry x="270" y="260" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_W5xkDv0yz4pwQLLql5I-18" value="storm idx + website support" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_W5xkDv0yz4pwQLLql5I-3">
+          <mxGeometry x="50" y="100" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_W5xkDv0yz4pwQLLql5I-20" value="H5 files" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_W5xkDv0yz4pwQLLql5I-3">
+          <mxGeometry x="275" y="100" width="70" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="_W5xkDv0yz4pwQLLql5I-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_W5xkDv0yz4pwQLLql5I-9" target="_W5xkDv0yz4pwQLLql5I-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>

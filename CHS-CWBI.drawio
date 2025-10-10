@@ -7,7 +7,7 @@
         <mxCell id="_W5xkDv0yz4pwQLLql5I-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="460" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="_W5xkDv0yz4pwQLLql5I-2" value="mini API (Vincent?)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="_W5xkDv0yz4pwQLLql5I-3">
+        <mxCell id="_W5xkDv0yz4pwQLLql5I-2" value="Vincent&#39;s mini-API" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="_W5xkDv0yz4pwQLLql5I-3">
           <mxGeometry x="150" y="200" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_W5xkDv0yz4pwQLLql5I-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_W5xkDv0yz4pwQLLql5I-3" source="_W5xkDv0yz4pwQLLql5I-1" target="_W5xkDv0yz4pwQLLql5I-2">

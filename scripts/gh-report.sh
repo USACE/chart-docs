@@ -9,7 +9,7 @@ set -euo pipefail
 # Output:
 # - reports/<DATE_RANGE>-work-summary.md
 
-DATE_RANGE="${DATE_RANGE:-2025-09-01..2025-09-30}"
+DATE_RANGE="${DATE_RANGE:-2025-10-01..2025-10-31}"
 OUT_DIR="${OUT_DIR:-reports}"
 OUT_FILE="${OUT_FILE:-${OUT_DIR}/${DATE_RANGE}-work-summary.md}"
 

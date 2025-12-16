@@ -599,7 +599,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KJ8LBPcFI9mMA5Z7xMJ4-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="pse" vertex="1">
-          <mxGeometry height="100" width="100" x="480" y="600" as="geometry" />
+          <mxGeometry height="100" width="100" x="480" y="620" as="geometry" />
         </mxCell>
         <mxCell id="KJ8LBPcFI9mMA5Z7xMJ4-14" edge="1" parent="1" source="KJ8LBPcFI9mMA5Z7xMJ4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KJ8LBPcFI9mMA5Z7xMJ4-13" value="">
           <mxGeometry relative="1" as="geometry" />

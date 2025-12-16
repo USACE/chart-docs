@@ -569,19 +569,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KJ8LBPcFI9mMA5Z7xMJ4-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="storm selection" vertex="1">
-          <mxGeometry height="100" width="100" x="260" y="480" as="geometry" />
+          <mxGeometry height="100" width="100" x="290" y="480" as="geometry" />
         </mxCell>
         <mxCell id="KJ8LBPcFI9mMA5Z7xMJ4-5" edge="1" parent="1" source="KJ8LBPcFI9mMA5Z7xMJ4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KJ8LBPcFI9mMA5Z7xMJ4-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KJ8LBPcFI9mMA5Z7xMJ4-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="lifecycle generation" vertex="1">
-          <mxGeometry height="100" width="100" x="260" y="620" as="geometry" />
+          <mxGeometry height="100" width="100" x="290" y="620" as="geometry" />
         </mxCell>
         <mxCell id="KJ8LBPcFI9mMA5Z7xMJ4-9" edge="1" parent="1" source="KJ8LBPcFI9mMA5Z7xMJ4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KJ8LBPcFI9mMA5Z7xMJ4-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KJ8LBPcFI9mMA5Z7xMJ4-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="hydrograph manipulation" vertex="1">
-          <mxGeometry height="100" width="100" x="260" y="760" as="geometry" />
+          <mxGeometry height="100" width="100" x="290" y="760" as="geometry" />
         </mxCell>
         <mxCell id="KJ8LBPcFI9mMA5Z7xMJ4-17" edge="1" parent="1" source="KJ8LBPcFI9mMA5Z7xMJ4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KJ8LBPcFI9mMA5Z7xMJ4-13">
           <mxGeometry relative="1" as="geometry" />
@@ -605,7 +605,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KJ8LBPcFI9mMA5Z7xMJ4-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="stage-volume" vertex="1">
-          <mxGeometry height="100" width="100" x="480" y="920" as="geometry" />
+          <mxGeometry height="100" width="100" x="480" y="910" as="geometry" />
         </mxCell>
         <mxCell id="KJ8LBPcFI9mMA5Z7xMJ4-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="consequences" vertex="1">
           <mxGeometry height="100" width="100" x="720" y="760" as="geometry" />

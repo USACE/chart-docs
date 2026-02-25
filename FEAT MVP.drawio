@@ -927,31 +927,19 @@
           <mxGeometry height="100" width="100" x="1540" y="2000" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="berm recovery" vertex="1">
-          <mxGeometry height="100" width="100" x="1769" y="2080" as="geometry" />
+          <mxGeometry height="100" width="100" x="1750" y="1910" as="geometry" />
         </mxCell>
-        <mxCell id="kI-2_gem-rt1LVceDTwl-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="nourishment" vertex="1">
-          <mxGeometry height="100" width="100" x="1770" y="2240" as="geometry" />
-        </mxCell>
-        <mxCell id="kI-2_gem-rt1LVceDTwl-38" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kI-2_gem-rt1LVceDTwl-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kI-2_gem-rt1LVceDTwl-35" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="type of nourishment" vertex="1">
-          <mxGeometry height="100" width="100" x="1920" y="2240" as="geometry" />
+        <mxCell id="kI-2_gem-rt1LVceDTwl-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="nourishment&amp;nbsp;&lt;div&gt;(emergency)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="1751" y="2080" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="recurreing planned" vertex="1">
           <mxGeometry height="100" width="100" x="1200" y="2640" as="geometry" />
         </mxCell>
-        <mxCell id="kI-2_gem-rt1LVceDTwl-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="emergency" vertex="1">
-          <mxGeometry height="100" width="100" x="2090" y="2240" as="geometry" />
-        </mxCell>
-        <mxCell id="kI-2_gem-rt1LVceDTwl-40" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="kI-2_gem-rt1LVceDTwl-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="armoring" vertex="1">
-          <mxGeometry height="100" width="100" x="1769" y="2380" as="geometry" />
+          <mxGeometry height="100" width="100" x="1750" y="2220" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-42" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="type of nourishment" vertex="1">
-          <mxGeometry height="100" width="100" x="1920" y="2390" as="geometry" />
+          <mxGeometry height="100" width="100" x="1901" y="2230" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="parametric nourishment trigger&amp;nbsp;" vertex="1">
           <mxGeometry height="75" width="70" x="1300" y="2505" as="geometry" />
@@ -988,7 +976,7 @@
           <mxGeometry height="30" width="30" x="1040" y="2305" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="structure characteristic: armorable, not armorable, already armored" vertex="1">
-          <mxGeometry height="90" width="100" x="850" y="2590" as="geometry" />
+          <mxGeometry height="90" width="100" x="870" y="2580" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-54" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="armor?" vertex="1">
           <mxGeometry height="100" width="100" x="995" y="2490" as="geometry" />

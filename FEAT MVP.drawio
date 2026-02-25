@@ -659,7 +659,7 @@
           <mxGeometry height="100" width="100" x="1340" y="760" as="geometry" />
         </mxCell>
         <mxCell id="oFV2qXa7i7mAlUMynnLw-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F(trop, extrop) = LC_trop + LC_extrop" vertex="1">
-          <mxGeometry height="30" width="230" x="1280" y="890" as="geometry" />
+          <mxGeometry height="30" width="230" x="1275" y="870" as="geometry" />
         </mxCell>
         <mxCell id="oFV2qXa7i7mAlUMynnLw-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="lambda | tropical-extrop" vertex="1">
           <mxGeometry height="30" width="60" x="1240" y="410" as="geometry" />
@@ -695,7 +695,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9dJhx2w0cZscQH4AUUYD-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="PSE1" vertex="1">
-          <mxGeometry height="100" width="100" x="1220" y="920" as="geometry" />
+          <mxGeometry height="100" width="100" x="1220" y="960" as="geometry" />
         </mxCell>
         <mxCell id="piqc6NVR4myR-VNehn-m-22" edge="1" parent="1" source="9dJhx2w0cZscQH4AUUYD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="piqc6NVR4myR-VNehn-m-19">
           <mxGeometry relative="1" as="geometry" />
@@ -751,7 +751,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="piqc6NVR4myR-VNehn-m-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="PSE3" vertex="1">
-          <mxGeometry height="100" width="100" x="1490" y="920" as="geometry" />
+          <mxGeometry height="100" width="100" x="1490" y="960" as="geometry" />
         </mxCell>
         <mxCell id="piqc6NVR4myR-VNehn-m-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="PSE2" vertex="1">
           <mxGeometry height="100" width="100" x="1740" y="810" as="geometry" />
@@ -845,6 +845,9 @@
             <mxPoint x="1390" y="1510" as="sourcePoint" />
             <mxPoint x="1660" y="1510" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7SARveS968UKzkdf-2d-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="# of scenarios = n_hsets x m_resstage" vertex="1">
+          <mxGeometry height="30" width="290" x="1700" y="1140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -883,7 +883,7 @@
             <mxPoint x="1501.5" y="2050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kI-2_gem-rt1LVceDTwl-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="MORPHOLOGY EVENT" vertex="1">
+        <mxCell id="kI-2_gem-rt1LVceDTwl-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="STORM&amp;nbsp; EVENT" vertex="1">
           <mxGeometry height="100" width="100" x="1360" y="2000" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-7" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kI-2_gem-rt1LVceDTwl-6" value="">
@@ -917,9 +917,6 @@
         <mxCell id="kI-2_gem-rt1LVceDTwl-23" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="beach&amp;nbsp;&lt;div&gt;profile 1&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="1520" y="1840" as="geometry" />
         </mxCell>
-        <mxCell id="kI-2_gem-rt1LVceDTwl-28" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kI-2_gem-rt1LVceDTwl-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-29" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kI-2_gem-rt1LVceDTwl-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -928,9 +925,6 @@
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-25" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="event type?" vertex="1">
           <mxGeometry height="100" width="100" x="1540" y="2000" as="geometry" />
-        </mxCell>
-        <mxCell id="kI-2_gem-rt1LVceDTwl-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="background erosion" vertex="1">
-          <mxGeometry height="100" width="100" x="1770" y="1900" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="berm recovery" vertex="1">
           <mxGeometry height="100" width="100" x="1769" y="2080" as="geometry" />
@@ -976,6 +970,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="kI-2_gem-rt1LVceDTwl-58" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kI-2_gem-rt1LVceDTwl-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1230" y="2420" />
+              <mxPoint x="1500" y="2420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="periodic assessment" vertex="1">
           <mxGeometry height="100" width="100" x="1180" y="2270" as="geometry" />
         </mxCell>
@@ -996,6 +998,9 @@
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="triggers: volumetric, offset" vertex="1">
           <mxGeometry height="70" width="120" x="840" y="2500" as="geometry" />
+        </mxCell>
+        <mxCell id="kI-2_gem-rt1LVceDTwl-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="background erosion" vertex="1">
+          <mxGeometry height="100" width="100" x="1450" y="2480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

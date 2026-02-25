@@ -929,9 +929,6 @@
         <mxCell id="kI-2_gem-rt1LVceDTwl-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="berm recovery" vertex="1">
           <mxGeometry height="100" width="100" x="1769" y="2080" as="geometry" />
         </mxCell>
-        <mxCell id="kI-2_gem-rt1LVceDTwl-33" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="beach&amp;nbsp;&lt;div&gt;profile 1&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="1040" y="2180" as="geometry" />
-        </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="nourishment" vertex="1">
           <mxGeometry height="100" width="100" x="1770" y="2240" as="geometry" />
         </mxCell>
@@ -957,7 +954,7 @@
           <mxGeometry height="100" width="100" x="1920" y="2390" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="parametric nourishment trigger&amp;nbsp;" vertex="1">
-          <mxGeometry height="70" width="120" x="1300" y="2505" as="geometry" />
+          <mxGeometry height="75" width="70" x="1300" y="2505" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-52" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kI-2_gem-rt1LVceDTwl-48" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -974,7 +971,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1230" y="2420" />
-              <mxPoint x="1500" y="2420" />
+              <mxPoint x="1460" y="2420" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1000,7 +997,7 @@
           <mxGeometry height="70" width="120" x="840" y="2500" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="background erosion" vertex="1">
-          <mxGeometry height="100" width="100" x="1450" y="2480" as="geometry" />
+          <mxGeometry height="100" width="100" x="1410" y="2492.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

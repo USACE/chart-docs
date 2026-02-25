@@ -561,7 +561,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_rVoIc4acg1byQA5M3vp" name="process-map">
-    <mxGraphModel dx="1313" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -754,7 +754,7 @@
           <mxGeometry height="100" width="100" x="1540" y="960" as="geometry" />
         </mxCell>
         <mxCell id="piqc6NVR4myR-VNehn-m-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="PSE2 (chicago)" vertex="1">
-          <mxGeometry height="100" width="100" x="1950" y="880" as="geometry" />
+          <mxGeometry height="100" width="100" x="1920" y="690" as="geometry" />
         </mxCell>
         <mxCell id="piqc6NVR4myR-VNehn-m-30" edge="1" parent="1" source="piqc6NVR4myR-VNehn-m-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="piqc6NVR4myR-VNehn-m-29" value="">
           <mxGeometry relative="1" as="geometry" />

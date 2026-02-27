@@ -1003,9 +1003,6 @@
         <mxCell id="SzIs-OAu0A5rGe8o-477-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="CSHORE" vertex="1">
           <mxGeometry height="100" width="100" x="965" y="2450" as="geometry" />
         </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="GENCADE" vertex="1">
-          <mxGeometry height="75" width="70" x="1080" y="2720" as="geometry" />
-        </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="GENCADE" vertex="1">
           <mxGeometry height="100" width="100" x="1180" y="2730" as="geometry" />
         </mxCell>

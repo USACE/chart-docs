@@ -1068,7 +1068,7 @@
           <mxGeometry height="30" width="60" x="140" y="70" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-78" parent="SzIs-OAu0A5rGe8o-477-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="from CSHORE" vertex="1">
-          <mxGeometry height="30" width="60" x="195" y="540" as="geometry" />
+          <mxGeometry height="30" width="60" x="640" y="320" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-79" parent="SzIs-OAu0A5rGe8o-477-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="from CSHORE" vertex="1">
           <mxGeometry height="30" width="60" x="550" y="550" as="geometry" />

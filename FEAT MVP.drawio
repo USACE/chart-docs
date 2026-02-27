@@ -1004,7 +1004,7 @@
           <mxGeometry height="100" width="100" x="965" y="2450" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="GENCADE" vertex="1">
-          <mxGeometry height="100" width="100" x="1180" y="2730" as="geometry" />
+          <mxGeometry height="100" width="100" x="420" y="2530" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-16" edge="1" parent="1" source="SzIs-OAu0A5rGe8o-477-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SzIs-OAu0A5rGe8o-477-8" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1107,6 +1107,9 @@
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RECURRING" vertex="1">
           <mxGeometry height="30" width="170" x="705" y="2670" as="geometry" />
+        </mxCell>
+        <mxCell id="SzIs-OAu0A5rGe8o-477-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="don&#39;t care right now, later option" vertex="1">
+          <mxGeometry height="30" width="105" x="420" y="2640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

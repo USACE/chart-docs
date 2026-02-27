@@ -865,7 +865,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y7SARveS968UKzkdf-2d-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="hydrograph manipulation" vertex="1">
-          <mxGeometry height="80" width="80" x="820" y="2460" as="geometry" />
+          <mxGeometry height="80" width="80" x="820" y="2360" as="geometry" />
         </mxCell>
         <mxCell id="Y7SARveS968UKzkdf-2d-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="profile" vertex="1">
           <mxGeometry height="100" width="100" x="160" y="1850" as="geometry" />
@@ -885,12 +885,12 @@
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-17" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="920" y="2450" as="sourcePoint" />
-            <mxPoint x="920.5" y="2570" as="targetPoint" />
+            <mxPoint x="920" y="2350" as="sourcePoint" />
+            <mxPoint x="920.5" y="2470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="checkpoint&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="60" x="890" y="2590" as="geometry" />
+          <mxGeometry height="30" width="60" x="890" y="2490" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-20" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
@@ -910,7 +910,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="post-storm recovery" vertex="1">
-          <mxGeometry height="100" width="100" x="1130" y="2450" as="geometry" />
+          <mxGeometry height="100" width="100" x="1130" y="2350" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-5" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="kI-2_gem-rt1LVceDTwl-57">
           <mxGeometry relative="1" as="geometry" />
@@ -985,7 +985,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="CSHORE" vertex="1">
-          <mxGeometry height="100" width="100" x="965" y="2450" as="geometry" />
+          <mxGeometry height="100" width="100" x="965" y="2350" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="GENCADE" vertex="1">
           <mxGeometry height="100" width="100" x="420" y="2530" as="geometry" />
@@ -994,13 +994,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-15" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="initial profile" vertex="1">
-          <mxGeometry height="60" width="100" x="965" y="2320" as="geometry" />
+          <mxGeometry height="60" width="100" x="965" y="2220" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="storm events feeding into CSHORE" vertex="1">
-          <mxGeometry height="30" width="105" x="780" y="2410" as="geometry" />
+          <mxGeometry height="30" width="105" x="780" y="2310" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="storm-triggered assessment" vertex="1">
-          <mxGeometry height="100" width="100" x="1280" y="2450" as="geometry" />
+          <mxGeometry height="100" width="100" x="1280" y="2350" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-32" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="storm triggered assessment" vertex="1">
           <mxGeometry height="620" width="710" x="1870" y="2080" as="geometry" />
@@ -1099,7 +1099,7 @@
           <mxGeometry height="70" width="130" x="350" y="115" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="STORM EVENT DRIVENt" vertex="1">
-          <mxGeometry height="30" width="170" x="720" y="2300" as="geometry" />
+          <mxGeometry height="30" width="170" x="720" y="2200" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RECURRING" vertex="1">
           <mxGeometry height="30" width="170" x="705" y="2670" as="geometry" />
@@ -1110,8 +1110,8 @@
         <mxCell id="SzIs-OAu0A5rGe8o-477-76" edge="1" parent="1" source="SzIs-OAu0A5rGe8o-477-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="SzIs-OAu0A5rGe8o-477-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1015" y="2630" />
-              <mxPoint x="1340" y="2630" />
+              <mxPoint x="1015" y="2530" />
+              <mxPoint x="1340" y="2530" />
             </Array>
           </mxGeometry>
         </mxCell>

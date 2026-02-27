@@ -561,7 +561,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_rVoIc4acg1byQA5M3vp" name="process-map">
-    <mxGraphModel dx="1724" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1149" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -984,6 +984,13 @@
         <mxCell id="SzIs-OAu0A5rGe8o-477-64" edge="1" parent="1" source="SzIs-OAu0A5rGe8o-477-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kI-2_gem-rt1LVceDTwl-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SzIs-OAu0A5rGe8o-477-80" edge="1" parent="1" source="SzIs-OAu0A5rGe8o-477-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SzIs-OAu0A5rGe8o-477-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1405" y="2600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="CSHORE" vertex="1">
           <mxGeometry height="100" width="100" x="1355" y="2349.92" as="geometry" />
         </mxCell>
@@ -1000,7 +1007,7 @@
           <mxGeometry height="30" width="105" x="1170" y="2309.92" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="storm-triggered assessment" vertex="1">
-          <mxGeometry height="100" width="100" x="1670" y="2349.92" as="geometry" />
+          <mxGeometry height="100" width="100" x="1520" y="2550" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-32" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="storm triggered assessment" vertex="1">
           <mxGeometry height="620" width="710" x="1875" y="2080" as="geometry" />
@@ -1105,7 +1112,7 @@
           <mxGeometry height="100" width="100" x="240" y="315" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-25" parent="SzIs-OAu0A5rGe8o-477-54" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="sand pull offshore intially, but then gain back" vertex="1">
-          <mxGeometry height="70" width="130" x="350" y="115" as="geometry" />
+          <mxGeometry height="70" width="130" x="345" y="115" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="STORM EVENT DRIVENt" vertex="1">
           <mxGeometry height="30" width="170" x="1120" y="2199.92" as="geometry" />
@@ -1115,14 +1122,6 @@
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="don&#39;t care right now, later option" vertex="1">
           <mxGeometry height="30" width="105" x="420" y="2640" as="geometry" />
-        </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-76" edge="1" parent="1" source="SzIs-OAu0A5rGe8o-477-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="SzIs-OAu0A5rGe8o-477-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1405" y="2529.92" />
-              <mxPoint x="1730" y="2529.92" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

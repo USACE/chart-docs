@@ -1064,6 +1064,15 @@
         <mxCell id="SzIs-OAu0A5rGe8o-477-73" parent="SzIs-OAu0A5rGe8o-477-32" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="storm-&lt;div&gt;response&amp;nbsp;&lt;/div&gt;&lt;div&gt;waves&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="600" y="370" as="geometry" />
         </mxCell>
+        <mxCell id="SzIs-OAu0A5rGe8o-477-77" parent="SzIs-OAu0A5rGe8o-477-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="from CSHORE" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SzIs-OAu0A5rGe8o-477-78" parent="SzIs-OAu0A5rGe8o-477-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="from CSHORE" vertex="1">
+          <mxGeometry height="30" width="60" x="195" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="SzIs-OAu0A5rGe8o-477-79" parent="SzIs-OAu0A5rGe8o-477-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="from CSHORE" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="550" as="geometry" />
+        </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-54" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="post-storm recovery" vertex="1">
           <mxGeometry height="475" width="590" x="1875" y="2745.5" as="geometry" />
         </mxCell>

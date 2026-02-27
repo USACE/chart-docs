@@ -561,7 +561,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_rVoIc4acg1byQA5M3vp" name="process-map">
-    <mxGraphModel dx="1724" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1452" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1067,6 +1067,12 @@
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-52" parent="SzIs-OAu0A5rGe8o-477-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="rebuilding/raising" vertex="1">
           <mxGeometry height="75" width="105" x="395" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="SzIs-OAu0A5rGe8o-477-71" edge="1" parent="SzIs-OAu0A5rGe8o-477-32" source="SzIs-OAu0A5rGe8o-477-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SzIs-OAu0A5rGe8o-477-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzIs-OAu0A5rGe8o-477-70" parent="SzIs-OAu0A5rGe8o-477-32" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="nourishment template" vertex="1">
+          <mxGeometry height="60" width="100" x="280" y="510" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-54" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="post-storm recovery" vertex="1">
           <mxGeometry height="475" width="590" x="1875" y="2745.5" as="geometry" />

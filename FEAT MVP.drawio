@@ -968,7 +968,7 @@
           <mxGeometry height="100" width="100" x="1180" y="2932.5" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="plan-formed" vertex="1">
-          <mxGeometry height="75" width="70" x="1360" y="2910" as="geometry" />
+          <mxGeometry height="75" width="70" x="1290" y="2880" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="building" vertex="1">
           <mxGeometry height="100" width="100" x="945" y="3280" as="geometry" />

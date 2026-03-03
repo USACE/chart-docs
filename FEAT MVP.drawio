@@ -861,7 +861,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y7SARveS968UKzkdf-2d-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="# of scenarios = n_hsets x m_resstage" vertex="1">
-          <mxGeometry height="30" width="290" x="1850" y="1170" as="geometry" />
+          <mxGeometry height="30" width="290" x="1760" y="1190" as="geometry" />
         </mxCell>
         <mxCell id="Y7SARveS968UKzkdf-2d-19" edge="1" parent="1" source="Y7SARveS968UKzkdf-2d-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="9dJhx2w0cZscQH4AUUYD-11">
           <mxGeometry relative="1" as="geometry" />

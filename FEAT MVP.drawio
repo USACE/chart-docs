@@ -826,12 +826,12 @@
         </mxCell>
         <mxCell id="Y7SARveS968UKzkdf-2d-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1465" y="1270" as="sourcePoint" />
-            <mxPoint x="1465.5" y="1390" as="targetPoint" />
+            <mxPoint x="1320" y="1310" as="sourcePoint" />
+            <mxPoint x="1320.5" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y7SARveS968UKzkdf-2d-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="checkpoint&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="60" x="1465" y="1465" as="geometry" />
+          <mxGeometry height="30" width="60" x="1295" y="1260" as="geometry" />
         </mxCell>
         <mxCell id="Y7SARveS968UKzkdf-2d-6" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="hydrographs&amp;nbsp;&lt;div&gt;sets&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="1205" y="1650" as="geometry" />
@@ -930,10 +930,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="recurreing planned" vertex="1">
-          <mxGeometry height="100" width="100" x="950" y="3130" as="geometry" />
+          <mxGeometry height="100" width="100" x="930" y="3040" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="parametric nourishment trigger&amp;nbsp;" vertex="1">
-          <mxGeometry height="75" width="70" x="1035" y="2880" as="geometry" />
+          <mxGeometry height="75" width="70" x="1015" y="2790" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-52" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kI-2_gem-rt1LVceDTwl-48" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -941,57 +941,57 @@
         <mxCell id="kI-2_gem-rt1LVceDTwl-56" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kI-2_gem-rt1LVceDTwl-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1000" y="2860" />
-              <mxPoint x="815" y="2860" />
+              <mxPoint x="980" y="2770" />
+              <mxPoint x="795" y="2770" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-58" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kI-2_gem-rt1LVceDTwl-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1000" y="2860" />
-              <mxPoint x="1230" y="2860" />
+              <mxPoint x="980" y="2770" />
+              <mxPoint x="1210" y="2770" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="periodic assessment" vertex="1">
-          <mxGeometry height="100" width="100" x="950" y="2710" as="geometry" />
+          <mxGeometry height="100" width="100" x="930" y="2620" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-4" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kI-2_gem-rt1LVceDTwl-36" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-48" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="renourish?" vertex="1">
-          <mxGeometry height="100" width="100" x="950" y="2933" as="geometry" />
+          <mxGeometry height="100" width="100" x="930" y="2843" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-51" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kI-2_gem-rt1LVceDTwl-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-50" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.clock;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="810" y="2745" as="geometry" />
+          <mxGeometry height="30" width="30" x="790" y="2655" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="structure characteristic: armorable, not armorable, already armored" vertex="1">
-          <mxGeometry height="90" width="100" x="640" y="3020" as="geometry" />
+          <mxGeometry height="90" width="100" x="620" y="2930" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-54" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="armor?" vertex="1">
-          <mxGeometry height="100" width="100" x="765" y="2930" as="geometry" />
+          <mxGeometry height="100" width="100" x="745" y="2840" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="triggers: volumetric, offset" vertex="1">
-          <mxGeometry height="70" width="120" x="610" y="2940" as="geometry" />
+          <mxGeometry height="70" width="120" x="590" y="2850" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="background erosion" vertex="1">
-          <mxGeometry height="100" width="100" x="1180" y="2932.5" as="geometry" />
+          <mxGeometry height="100" width="100" x="1160" y="2842.5" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="plan-formed" vertex="1">
-          <mxGeometry height="75" width="70" x="1290" y="2880" as="geometry" />
+          <mxGeometry height="75" width="70" x="1270" y="2790" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="building" vertex="1">
-          <mxGeometry height="100" width="100" x="945" y="3280" as="geometry" />
+          <mxGeometry height="100" width="100" x="925" y="3190" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-7" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="SzIs-OAu0A5rGe8o-477-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1340" y="2982" />
-              <mxPoint x="1340" y="3330" />
+              <mxPoint x="1320" y="2892" />
+              <mxPoint x="1320" y="3240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1132,7 +1132,7 @@
           <mxGeometry height="30" width="170" x="1145" y="2210" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RECURRING" vertex="1">
-          <mxGeometry height="30" width="170" x="705" y="2670" as="geometry" />
+          <mxGeometry height="30" width="170" x="685" y="2580" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="don&#39;t care right now, later option" vertex="1">
           <mxGeometry height="30" width="105" x="420" y="2640" as="geometry" />

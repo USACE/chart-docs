@@ -1042,6 +1042,9 @@
         <mxCell id="SzIs-OAu0A5rGe8o-477-36" parent="SzIs-OAu0A5rGe8o-477-32" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="nourishment" vertex="1">
           <mxGeometry height="100" width="100" x="280" y="350" as="geometry" />
         </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-73" edge="1" parent="SzIs-OAu0A5rGe8o-477-32" source="SzIs-OAu0A5rGe8o-477-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="29ZQw45mtxkggkA8f3GP-72" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-37" parent="SzIs-OAu0A5rGe8o-477-32" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="armoring damage" vertex="1">
           <mxGeometry height="100" width="100" x="70" y="350" as="geometry" />
         </mxCell>
@@ -1065,6 +1068,9 @@
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-77" parent="SzIs-OAu0A5rGe8o-477-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="from CSHORE" vertex="1">
           <mxGeometry height="30" width="60" x="140" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-72" parent="SzIs-OAu0A5rGe8o-477-32" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="repair" vertex="1">
+          <mxGeometry height="100" width="100" x="70" y="500" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-54" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="post-storm recovery" vertex="1">
           <mxGeometry height="475" width="590" x="1875" y="2745.5" as="geometry" />

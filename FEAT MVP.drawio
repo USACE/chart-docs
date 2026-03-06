@@ -561,7 +561,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_rVoIc4acg1byQA5M3vp" name="process-map">
-    <mxGraphModel dx="1678" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1253,6 +1253,9 @@
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-17" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="armor trigger - cross-shore elevation threshold" vertex="1">
           <mxGeometry height="90" width="100" x="25" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-36" parent="29ZQw45mtxkggkA8f3GP-20" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="armor fail" vertex="1">
+          <mxGeometry height="100" width="100" x="490" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

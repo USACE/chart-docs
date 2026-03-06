@@ -1201,7 +1201,7 @@
           <mxGeometry height="40" width="330" x="140" y="80.07999999999993" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-20" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Armoring decision" vertex="1">
-          <mxGeometry height="670.08" width="710" x="1900" y="3280" as="geometry" />
+          <mxGeometry height="670.08" width="870" x="1900" y="3280" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-21" parent="29ZQw45mtxkggkA8f3GP-20" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="nourish" vertex="1">
           <mxGeometry height="100" width="100" x="510" y="559.9999999999999" as="geometry" />
@@ -1254,8 +1254,17 @@
         <mxCell id="29ZQw45mtxkggkA8f3GP-17" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="armor trigger - cross-shore elevation threshold" vertex="1">
           <mxGeometry height="90" width="100" x="25" y="240" as="geometry" />
         </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-38" edge="1" parent="29ZQw45mtxkggkA8f3GP-20" source="29ZQw45mtxkggkA8f3GP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="29ZQw45mtxkggkA8f3GP-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-36" parent="29ZQw45mtxkggkA8f3GP-20" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="armor fail" vertex="1">
-          <mxGeometry height="100" width="100" x="490" y="150" as="geometry" />
+          <mxGeometry height="100" width="100" x="610" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-37" parent="29ZQw45mtxkggkA8f3GP-20" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="automatic rebuild" vertex="1">
+          <mxGeometry height="100" width="100" x="610" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-39" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="no erosion damage while rebuilding" vertex="1">
+          <mxGeometry height="90" width="100" x="710" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

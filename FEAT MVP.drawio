@@ -561,7 +561,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_rVoIc4acg1byQA5M3vp" name="process-map">
-    <mxGraphModel dx="1584" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1901" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1200,7 +1200,7 @@
         <mxCell id="29ZQw45mtxkggkA8f3GP-15" parent="29ZQw45mtxkggkA8f3GP-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EMERGENCY - everytime background erosion is assessed; more expensive&lt;div&gt;INTERVAL - assess every interval&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="330" x="140" y="80.07999999999993" as="geometry" />
         </mxCell>
-        <mxCell id="29ZQw45mtxkggkA8f3GP-20" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Armoring decision" vertex="1">
+        <mxCell id="29ZQw45mtxkggkA8f3GP-20" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Lot Armoring" vertex="1">
           <mxGeometry height="840" width="1250" x="1900" y="3280" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-23" edge="1" parent="29ZQw45mtxkggkA8f3GP-20" source="29ZQw45mtxkggkA8f3GP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="29ZQw45mtxkggkA8f3GP-29">

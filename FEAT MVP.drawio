@@ -931,11 +931,11 @@
         <mxCell id="kI-2_gem-rt1LVceDTwl-23" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="plot&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="2600" y="1520" as="geometry" />
         </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-65" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SzIs-OAu0A5rGe8o-477-22" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kI-2_gem-rt1LVceDTwl-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="post-storm recovery" vertex="1">
-          <mxGeometry height="100" width="100" x="1565" y="2209.92" as="geometry" />
+        <mxCell id="SzIs-OAu0A5rGe8o-477-65" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1615" y="2309.92" as="sourcePoint" />
+            <mxPoint x="1615" y="2409.9999999999995" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="parametric nourishment trigger (volumetric)&amp;nbsp;" vertex="1">
           <mxGeometry height="75" width="70" x="1525" y="2780" as="geometry" />
@@ -994,14 +994,17 @@
         <mxCell id="SzIs-OAu0A5rGe8o-477-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="plan-form - accelerated erosion from more sand from the alternative" vertex="1">
           <mxGeometry height="75" width="125" x="1640" y="2670" as="geometry" />
         </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-64" edge="1" parent="1" source="SzIs-OAu0A5rGe8o-477-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kI-2_gem-rt1LVceDTwl-27">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SzIs-OAu0A5rGe8o-477-64" edge="1" parent="1" source="SzIs-OAu0A5rGe8o-477-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1565" y="2259.92" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-80" edge="1" parent="1" source="SzIs-OAu0A5rGe8o-477-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SzIs-OAu0A5rGe8o-477-22">
+        <mxCell id="SzIs-OAu0A5rGe8o-477-80" edge="1" parent="1" source="SzIs-OAu0A5rGe8o-477-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1450" y="2460" />
             </Array>
+            <mxPoint x="1565" y="2459.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="CSHORE" vertex="1">
@@ -1018,9 +1021,6 @@
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="storm events feeding into CSHORE" vertex="1">
           <mxGeometry height="30" width="105" x="1215" y="2169.92" as="geometry" />
-        </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="storm-triggered assessment" vertex="1">
-          <mxGeometry height="100" width="100" x="1565" y="2410" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-32" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="storm triggered assessment" vertex="1">
           <mxGeometry height="620" width="710" x="1875" y="2080" as="geometry" />
@@ -1299,6 +1299,12 @@
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-68" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="renourishment decision" vertex="1">
           <mxGeometry height="60" width="120" x="1400" y="2840" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-70" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="post-storm recovery" vertex="1">
+          <mxGeometry height="60" width="120" x="1565" y="2229.92" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-71" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="storm-triggered assessment" vertex="1">
+          <mxGeometry height="60" width="120" x="1580" y="2430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

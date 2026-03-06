@@ -992,7 +992,7 @@
           <mxGeometry height="100" width="100" x="1640" y="2832.5" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="plan-form - accelerated erosion from more sand from the alternative" vertex="1">
-          <mxGeometry height="75" width="125" x="1710" y="2745.5" as="geometry" />
+          <mxGeometry height="75" width="125" x="1640" y="2670" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-64" edge="1" parent="1" source="SzIs-OAu0A5rGe8o-477-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kI-2_gem-rt1LVceDTwl-27">
           <mxGeometry relative="1" as="geometry" />
@@ -1152,7 +1152,7 @@
           <mxGeometry height="30" width="290" x="2800" y="1520" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-16" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Nourishment decision" vertex="1">
-          <mxGeometry height="670.08" width="710" x="1075" y="3280" as="geometry" />
+          <mxGeometry height="670.08" width="710" x="1020" y="3140" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-2" parent="29ZQw45mtxkggkA8f3GP-16" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="nourish" vertex="1">
           <mxGeometry height="100" width="100" x="500" y="460.0799999999999" as="geometry" />

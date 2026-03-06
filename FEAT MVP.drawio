@@ -1054,7 +1054,7 @@
         <mxCell id="SzIs-OAu0A5rGe8o-477-35" parent="SzIs-OAu0A5rGe8o-477-32" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="mitigation&amp;nbsp;&lt;div&gt;actions (not exclusive)&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="100" x="169.5" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-36" parent="SzIs-OAu0A5rGe8o-477-32" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="modify shoreline" vertex="1">
+        <mxCell id="SzIs-OAu0A5rGe8o-477-36" parent="SzIs-OAu0A5rGe8o-477-32" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="nourishment" vertex="1">
           <mxGeometry height="100" width="100" x="280" y="350" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-37" parent="SzIs-OAu0A5rGe8o-477-32" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="modify armor status" vertex="1">

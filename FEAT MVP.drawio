@@ -1023,7 +1023,7 @@
           <mxGeometry height="30" width="105" x="1215" y="2169.92" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-32" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="storm triggered assessment" vertex="1">
-          <mxGeometry height="620" width="710" x="1875" y="2080" as="geometry" />
+          <mxGeometry height="620" width="465" x="1875" y="2080" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-33" edge="1" parent="SzIs-OAu0A5rGe8o-477-32" source="SzIs-OAu0A5rGe8o-477-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SzIs-OAu0A5rGe8o-477-37">
           <mxGeometry relative="1" as="geometry" />
@@ -1035,9 +1035,6 @@
               <mxPoint x="330" y="330" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-51" edge="1" parent="SzIs-OAu0A5rGe8o-477-32" source="SzIs-OAu0A5rGe8o-477-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SzIs-OAu0A5rGe8o-477-50">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-35" parent="SzIs-OAu0A5rGe8o-477-32" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="mitigation&amp;nbsp;&lt;div&gt;actions (not exclusive)&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="100" x="169.5" y="210" as="geometry" />
@@ -1060,38 +1057,14 @@
         <mxCell id="SzIs-OAu0A5rGe8o-477-49" parent="SzIs-OAu0A5rGe8o-477-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="emergency nourishment" vertex="1">
           <mxGeometry height="75" width="70" x="270" y="275" as="geometry" />
         </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-50" parent="SzIs-OAu0A5rGe8o-477-32" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="modify structure" vertex="1">
-          <mxGeometry height="100" width="100" x="450" y="350" as="geometry" />
-        </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-52" parent="SzIs-OAu0A5rGe8o-477-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="rebuilding/raising" vertex="1">
-          <mxGeometry height="75" width="105" x="395" y="195" as="geometry" />
-        </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-71" edge="1" parent="SzIs-OAu0A5rGe8o-477-32" source="SzIs-OAu0A5rGe8o-477-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SzIs-OAu0A5rGe8o-477-36" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-70" parent="SzIs-OAu0A5rGe8o-477-32" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="nourishment template" vertex="1">
           <mxGeometry height="60" width="100" x="280" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-75" edge="1" parent="SzIs-OAu0A5rGe8o-477-32" source="SzIs-OAu0A5rGe8o-477-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SzIs-OAu0A5rGe8o-477-50" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-72" parent="SzIs-OAu0A5rGe8o-477-32" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="storm-&lt;div&gt;response&amp;nbsp;&lt;/div&gt;&lt;div&gt;water level&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="450" y="510" as="geometry" />
-        </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-74" edge="1" parent="SzIs-OAu0A5rGe8o-477-32" source="SzIs-OAu0A5rGe8o-477-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SzIs-OAu0A5rGe8o-477-50" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-73" parent="SzIs-OAu0A5rGe8o-477-32" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="storm-&lt;div&gt;response&amp;nbsp;&lt;/div&gt;&lt;div&gt;waves&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="600" y="370" as="geometry" />
-        </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-77" parent="SzIs-OAu0A5rGe8o-477-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="from CSHORE" vertex="1">
           <mxGeometry height="30" width="60" x="140" y="70" as="geometry" />
-        </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-78" parent="SzIs-OAu0A5rGe8o-477-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="from CSHORE" vertex="1">
-          <mxGeometry height="30" width="60" x="640" y="320" as="geometry" />
-        </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-79" parent="SzIs-OAu0A5rGe8o-477-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="from CSHORE" vertex="1">
-          <mxGeometry height="30" width="60" x="550" y="550" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-54" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="post-storm recovery" vertex="1">
           <mxGeometry height="475" width="590" x="1875" y="2745.5" as="geometry" />

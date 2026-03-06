@@ -1205,6 +1205,9 @@
         <mxCell id="29ZQw45mtxkggkA8f3GP-15" parent="29ZQw45mtxkggkA8f3GP-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EMERGENCY - everytime background erosion is assessed; more expensive&lt;div&gt;INTERVAL - assess every interval&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="330" x="140" y="80.07999999999993" as="geometry" />
         </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="armor trigger - cross-shore elevation threshold" vertex="1">
+          <mxGeometry height="90" width="100" x="1105" y="2938" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

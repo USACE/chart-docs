@@ -1025,28 +1025,22 @@
         <mxCell id="SzIs-OAu0A5rGe8o-477-32" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="storm triggered assessment" vertex="1">
           <mxGeometry height="620" width="465" x="1875" y="2080" as="geometry" />
         </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-33" edge="1" parent="SzIs-OAu0A5rGe8o-477-32" source="SzIs-OAu0A5rGe8o-477-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SzIs-OAu0A5rGe8o-477-37">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SzIs-OAu0A5rGe8o-477-33" edge="1" parent="SzIs-OAu0A5rGe8o-477-32" source="SzIs-OAu0A5rGe8o-477-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="349.99999999999955" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-34" edge="1" parent="SzIs-OAu0A5rGe8o-477-32" source="SzIs-OAu0A5rGe8o-477-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SzIs-OAu0A5rGe8o-477-36">
+        <mxCell id="SzIs-OAu0A5rGe8o-477-34" edge="1" parent="SzIs-OAu0A5rGe8o-477-32" source="SzIs-OAu0A5rGe8o-477-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="330" />
               <mxPoint x="330" y="330" />
             </Array>
+            <mxPoint x="330" y="349.99999999999955" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-35" parent="SzIs-OAu0A5rGe8o-477-32" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="mitigation&amp;nbsp;&lt;div&gt;actions (not exclusive)&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="100" x="169.5" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-36" parent="SzIs-OAu0A5rGe8o-477-32" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="nourishment" vertex="1">
-          <mxGeometry height="100" width="100" x="280" y="350" as="geometry" />
-        </mxCell>
-        <mxCell id="29ZQw45mtxkggkA8f3GP-73" edge="1" parent="SzIs-OAu0A5rGe8o-477-32" source="SzIs-OAu0A5rGe8o-477-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="29ZQw45mtxkggkA8f3GP-72" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-37" parent="SzIs-OAu0A5rGe8o-477-32" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="armoring damage" vertex="1">
-          <mxGeometry height="100" width="100" x="70" y="350" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-39" edge="1" parent="SzIs-OAu0A5rGe8o-477-32" source="SzIs-OAu0A5rGe8o-477-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SzIs-OAu0A5rGe8o-477-35" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1054,23 +1048,20 @@
         <mxCell id="SzIs-OAu0A5rGe8o-477-38" parent="SzIs-OAu0A5rGe8o-477-32" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="storm-&lt;div&gt;response shoreline&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="170" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-48" parent="SzIs-OAu0A5rGe8o-477-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="armoring" vertex="1">
+        <mxCell id="SzIs-OAu0A5rGe8o-477-48" parent="SzIs-OAu0A5rGe8o-477-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="armoring damage" vertex="1">
           <mxGeometry height="75" width="70" x="50" y="270" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-49" parent="SzIs-OAu0A5rGe8o-477-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="emergency nourishment" vertex="1">
           <mxGeometry height="75" width="70" x="270" y="275" as="geometry" />
         </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-71" edge="1" parent="SzIs-OAu0A5rGe8o-477-32" source="SzIs-OAu0A5rGe8o-477-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SzIs-OAu0A5rGe8o-477-36" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-70" parent="SzIs-OAu0A5rGe8o-477-32" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="nourishment template" vertex="1">
-          <mxGeometry height="60" width="100" x="280" y="510" as="geometry" />
-        </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-77" parent="SzIs-OAu0A5rGe8o-477-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="from CSHORE" vertex="1">
           <mxGeometry height="30" width="60" x="140" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="29ZQw45mtxkggkA8f3GP-72" parent="SzIs-OAu0A5rGe8o-477-32" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="repair" vertex="1">
-          <mxGeometry height="100" width="100" x="70" y="500" as="geometry" />
+        <mxCell id="29ZQw45mtxkggkA8f3GP-74" parent="SzIs-OAu0A5rGe8o-477-32" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="lot armoring" vertex="1">
+          <mxGeometry height="60" width="120" x="65" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-77" parent="SzIs-OAu0A5rGe8o-477-32" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="lot armoring" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="360" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-54" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="post-storm recovery" vertex="1">
           <mxGeometry height="475" width="590" x="1875" y="2745.5" as="geometry" />
@@ -1171,6 +1162,12 @@
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-15" parent="29ZQw45mtxkggkA8f3GP-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EMERGENCY - everytime background erosion is assessed; more expensive&lt;div&gt;INTERVAL - assess every interval&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="330" x="140" y="80.07999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-76" edge="1" parent="29ZQw45mtxkggkA8f3GP-16" source="29ZQw45mtxkggkA8f3GP-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="29ZQw45mtxkggkA8f3GP-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-75" parent="29ZQw45mtxkggkA8f3GP-16" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="nourishment template" vertex="1">
+          <mxGeometry height="60" width="100" x="340" y="480.0799999999999" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-20" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Lot Armoring" vertex="1">
           <mxGeometry height="860" width="1110" x="1900" y="3280" as="geometry" />

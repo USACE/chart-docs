@@ -988,10 +988,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kI-2_gem-rt1LVceDTwl-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="background + plan-formed erosion" vertex="1">
+        <mxCell id="kI-2_gem-rt1LVceDTwl-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="background + plan-form erosion" vertex="1">
           <mxGeometry height="100" width="100" x="1640" y="2832.5" as="geometry" />
         </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="plan-formed - accelerated erosion from more sand from the alternative" vertex="1">
+        <mxCell id="SzIs-OAu0A5rGe8o-477-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="plan-form - accelerated erosion from more sand from the alternative" vertex="1">
           <mxGeometry height="75" width="125" x="1710" y="2745.5" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="building" vertex="1">

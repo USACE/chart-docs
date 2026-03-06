@@ -943,7 +943,7 @@
         <mxCell id="kI-2_gem-rt1LVceDTwl-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="recurreing planned" vertex="1">
           <mxGeometry height="100" width="100" x="1410" y="3030" as="geometry" />
         </mxCell>
-        <mxCell id="kI-2_gem-rt1LVceDTwl-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="parametric nourishment trigger&amp;nbsp;" vertex="1">
+        <mxCell id="kI-2_gem-rt1LVceDTwl-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="parametric nourishment trigger (volumetric)&amp;nbsp;" vertex="1">
           <mxGeometry height="75" width="70" x="1495" y="2780" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-52" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kI-2_gem-rt1LVceDTwl-48" value="">
@@ -985,9 +985,6 @@
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-54" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="armor?" vertex="1">
           <mxGeometry height="100" width="100" x="1225" y="2830" as="geometry" />
-        </mxCell>
-        <mxCell id="kI-2_gem-rt1LVceDTwl-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="nourishment triggers: volumetric" vertex="1">
-          <mxGeometry height="70" width="120" x="1335" y="2770" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="background erosion" vertex="1">
           <mxGeometry height="100" width="100" x="1640" y="2832.5" as="geometry" />

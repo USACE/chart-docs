@@ -561,7 +561,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_rVoIc4acg1byQA5M3vp" name="process-map">
-    <mxGraphModel dx="1188" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1501" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1201,10 +1201,10 @@
           <mxGeometry height="40" width="330" x="140" y="80.07999999999993" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-20" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Armoring decision" vertex="1">
-          <mxGeometry height="670.08" width="870" x="1900" y="3280" as="geometry" />
+          <mxGeometry height="840" width="1250" x="1900" y="3280" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-21" parent="29ZQw45mtxkggkA8f3GP-20" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="nourish" vertex="1">
-          <mxGeometry height="100" width="100" x="510" y="559.9999999999999" as="geometry" />
+          <mxGeometry height="100" width="100" x="1010" y="694.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-22" edge="1" parent="29ZQw45mtxkggkA8f3GP-20" source="29ZQw45mtxkggkA8f3GP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="29ZQw45mtxkggkA8f3GP-27">
           <mxGeometry relative="1" as="geometry" />
@@ -1213,7 +1213,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-24" parent="29ZQw45mtxkggkA8f3GP-20" style="rhombus;whiteSpace=wrap;html=1;" value="armor?" vertex="1">
-          <mxGeometry height="80" width="80" x="260" y="259.99999999999994" as="geometry" />
+          <mxGeometry height="80" width="80" x="760" y="394.99999999999994" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-25" edge="1" parent="29ZQw45mtxkggkA8f3GP-20" source="29ZQw45mtxkggkA8f3GP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="29ZQw45mtxkggkA8f3GP-21">
           <mxGeometry relative="1" as="geometry" />
@@ -1222,31 +1222,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-27" parent="29ZQw45mtxkggkA8f3GP-20" style="rhombus;whiteSpace=wrap;html=1;" value="blackout?" vertex="1">
-          <mxGeometry height="80" width="80" x="370" y="419.99999999999994" as="geometry" />
+          <mxGeometry height="80" width="80" x="870" y="555" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-28" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="above threshold" vertex="1">
-          <mxGeometry height="30" width="60" x="430" y="309.99999999999994" as="geometry" />
+          <mxGeometry height="30" width="60" x="930" y="444.99999999999994" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-29" parent="29ZQw45mtxkggkA8f3GP-20" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="no nourish" vertex="1">
-          <mxGeometry height="100" width="100" x="150" y="410.99999999999994" as="geometry" />
+          <mxGeometry height="100" width="100" x="650" y="546" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-30" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="below threshold" vertex="1">
-          <mxGeometry height="30" width="60" x="130" y="329.99999999999994" as="geometry" />
+          <mxGeometry height="30" width="60" x="630" y="464.99999999999994" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-31" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="no blackout" vertex="1">
-          <mxGeometry height="30" width="60" x="470" y="419.99999999999994" as="geometry" />
+          <mxGeometry height="30" width="60" x="970" y="555" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-32" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="yes blackout" vertex="1">
-          <mxGeometry height="30" width="60" x="270" y="469.99999999999994" as="geometry" />
+          <mxGeometry height="30" width="60" x="770" y="605" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-33" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EMERGENCY - everytime background erosion is assessed; more expensive&lt;div&gt;INTERVAL - assess every interval&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="330" x="140" y="80.07999999999993" as="geometry" />
         </mxCell>
-        <mxCell id="29ZQw45mtxkggkA8f3GP-35" edge="1" parent="29ZQw45mtxkggkA8f3GP-20" source="29ZQw45mtxkggkA8f3GP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="29ZQw45mtxkggkA8f3GP-24" value="">
+        <mxCell id="29ZQw45mtxkggkA8f3GP-47" edge="1" parent="29ZQw45mtxkggkA8f3GP-20" source="29ZQw45mtxkggkA8f3GP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="29ZQw45mtxkggkA8f3GP-40" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-34" parent="29ZQw45mtxkggkA8f3GP-20" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="start" vertex="1">
-          <mxGeometry height="80" width="80" x="260" y="150" as="geometry" />
+          <mxGeometry height="80" width="80" x="610" y="70" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-53" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="structure characteristic: armorable, not armorable, already armored" vertex="1">
           <mxGeometry height="90" width="100" x="20" y="135" as="geometry" />
@@ -1254,17 +1254,47 @@
         <mxCell id="29ZQw45mtxkggkA8f3GP-17" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="armor trigger - cross-shore elevation threshold" vertex="1">
           <mxGeometry height="90" width="100" x="25" y="240" as="geometry" />
         </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-44" edge="1" parent="29ZQw45mtxkggkA8f3GP-20" source="29ZQw45mtxkggkA8f3GP-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="29ZQw45mtxkggkA8f3GP-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-45" edge="1" parent="29ZQw45mtxkggkA8f3GP-20" source="29ZQw45mtxkggkA8f3GP-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="29ZQw45mtxkggkA8f3GP-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-49" edge="1" parent="29ZQw45mtxkggkA8f3GP-20" source="29ZQw45mtxkggkA8f3GP-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="29ZQw45mtxkggkA8f3GP-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-40" parent="29ZQw45mtxkggkA8f3GP-20" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="armor status of a lot" vertex="1">
+          <mxGeometry height="100" width="100" x="600" y="214.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-42" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="already armored" vertex="1">
+          <mxGeometry height="90" width="100" x="420" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-43" parent="29ZQw45mtxkggkA8f3GP-20" style="rhombus;whiteSpace=wrap;html=1;" value="failure?" vertex="1">
+          <mxGeometry height="80" width="80" x="490" y="405" as="geometry" />
+        </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-38" edge="1" parent="29ZQw45mtxkggkA8f3GP-20" source="29ZQw45mtxkggkA8f3GP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="29ZQw45mtxkggkA8f3GP-37" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-36" parent="29ZQw45mtxkggkA8f3GP-20" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="armor fail" vertex="1">
-          <mxGeometry height="100" width="100" x="610" y="110" as="geometry" />
+          <mxGeometry height="100" width="100" x="190" y="450" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-37" parent="29ZQw45mtxkggkA8f3GP-20" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="automatic rebuild" vertex="1">
-          <mxGeometry height="100" width="100" x="610" y="275" as="geometry" />
+          <mxGeometry height="100" width="100" x="110" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="29ZQw45mtxkggkA8f3GP-39" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="no erosion damage while rebuilding" vertex="1">
-          <mxGeometry height="90" width="100" x="710" y="200" as="geometry" />
+        <mxCell id="29ZQw45mtxkggkA8f3GP-39" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="no erosion damage protection while rebuilding" vertex="1">
+          <mxGeometry height="90" width="100" x="210" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-41" parent="29ZQw45mtxkggkA8f3GP-20" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="armor fail" vertex="1">
+          <mxGeometry height="100" width="100" x="290" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-46" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="armorable" vertex="1">
+          <mxGeometry height="50" width="100" x="700" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-48" parent="29ZQw45mtxkggkA8f3GP-20" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="end" vertex="1">
+          <mxGeometry height="80" width="80" x="940" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-50" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="not armorable" vertex="1">
+          <mxGeometry height="50" width="100" x="820" y="215" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1232,8 +1232,8 @@
         <mxCell id="29ZQw45mtxkggkA8f3GP-32" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="no protection yet while building" vertex="1">
           <mxGeometry height="65" width="110" x="760" y="605" as="geometry" />
         </mxCell>
-        <mxCell id="29ZQw45mtxkggkA8f3GP-33" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EMERGENCY - everytime background erosion is assessed; more expensive&lt;div&gt;INTERVAL - assess every interval&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="330" x="140" y="80.07999999999993" as="geometry" />
+        <mxCell id="29ZQw45mtxkggkA8f3GP-33" parent="29ZQw45mtxkggkA8f3GP-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Armoring assessment periodic only&lt;/div&gt;" vertex="1">
+          <mxGeometry height="89.92" width="330" x="140" y="80.08" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-47" edge="1" parent="29ZQw45mtxkggkA8f3GP-20" source="29ZQw45mtxkggkA8f3GP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="29ZQw45mtxkggkA8f3GP-40" value="">
           <mxGeometry relative="1" as="geometry" />

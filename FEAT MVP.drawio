@@ -986,7 +986,7 @@
         <mxCell id="kI-2_gem-rt1LVceDTwl-54" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="armor?" vertex="1">
           <mxGeometry height="100" width="100" x="1225" y="2830" as="geometry" />
         </mxCell>
-        <mxCell id="kI-2_gem-rt1LVceDTwl-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="nourishment triggers: volumetric, offset" vertex="1">
+        <mxCell id="kI-2_gem-rt1LVceDTwl-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="nourishment triggers: volumetric" vertex="1">
           <mxGeometry height="70" width="120" x="1335" y="2770" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="background erosion" vertex="1">

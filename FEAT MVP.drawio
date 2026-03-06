@@ -938,7 +938,7 @@
           <mxGeometry height="100" width="100" x="1565" y="2209.92" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="parametric nourishment trigger (volumetric)&amp;nbsp;" vertex="1">
-          <mxGeometry height="75" width="70" x="1510" y="2780" as="geometry" />
+          <mxGeometry height="75" width="70" x="1525" y="2780" as="geometry" />
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-52" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="29ZQw45mtxkggkA8f3GP-68" value="">
           <mxGeometry relative="1" as="geometry">
@@ -980,22 +980,22 @@
             <mxPoint x="1460" y="2940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kI-2_gem-rt1LVceDTwl-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="background erosion" vertex="1">
+        <mxCell id="29ZQw45mtxkggkA8f3GP-69" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="29ZQw45mtxkggkA8f3GP-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1690" y="3020" />
+              <mxPoint x="1275" y="3020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kI-2_gem-rt1LVceDTwl-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="background + plan-formed erosion" vertex="1">
           <mxGeometry height="100" width="100" x="1640" y="2832.5" as="geometry" />
         </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="plan-formed" vertex="1">
-          <mxGeometry height="75" width="70" x="1750" y="2780" as="geometry" />
+        <mxCell id="SzIs-OAu0A5rGe8o-477-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="plan-formed - accelerated erosion from more sand from the alternative" vertex="1">
+          <mxGeometry height="75" width="125" x="1710" y="2745.5" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="building" vertex="1">
           <mxGeometry height="100" width="100" x="1400" y="3060" as="geometry" />
-        </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-7" edge="1" parent="1" source="kI-2_gem-rt1LVceDTwl-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="SzIs-OAu0A5rGe8o-477-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1800" y="2883" />
-              <mxPoint x="1800" y="3110" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-64" edge="1" parent="1" source="SzIs-OAu0A5rGe8o-477-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kI-2_gem-rt1LVceDTwl-27">
           <mxGeometry relative="1" as="geometry" />

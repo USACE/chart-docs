@@ -1023,7 +1023,7 @@
           <mxGeometry height="30" width="105" x="1215" y="2169.92" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-32" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="storm triggered assessment" vertex="1">
-          <mxGeometry height="620" width="465" x="1875" y="2080" as="geometry" />
+          <mxGeometry height="550" width="465" x="1875" y="2080" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-33" edge="1" parent="SzIs-OAu0A5rGe8o-477-32" source="SzIs-OAu0A5rGe8o-477-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">

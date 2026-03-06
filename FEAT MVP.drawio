@@ -1288,9 +1288,6 @@
         <mxCell id="29ZQw45mtxkggkA8f3GP-71" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="storm-triggered assessment" vertex="1">
           <mxGeometry height="60" width="120" x="1580" y="2430" as="geometry" />
         </mxCell>
-        <mxCell id="29ZQw45mtxkggkA8f3GP-80" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="OUTPUT - timeseries of morphology" vertex="1">
-          <mxGeometry height="60" width="100" x="1710" y="2050" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

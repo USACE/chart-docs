@@ -1199,6 +1199,9 @@
         <mxCell id="29ZQw45mtxkggkA8f3GP-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="yes blackout" vertex="1">
           <mxGeometry height="30" width="60" x="2860" y="2690" as="geometry" />
         </mxCell>
+        <mxCell id="29ZQw45mtxkggkA8f3GP-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EMERGENCY - everytime background erosion is assessed; more expensive&lt;div&gt;INTERVAL - assess every interval&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="330" x="2740" y="2400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

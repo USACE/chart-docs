@@ -561,7 +561,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_rVoIc4acg1byQA5M3vp" name="process-map">
-    <mxGraphModel dx="1197" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2504" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -933,8 +933,8 @@
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-65" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1615" y="2309.92" as="sourcePoint" />
-            <mxPoint x="1615" y="2409.9999999999995" as="targetPoint" />
+            <mxPoint x="1639.13" y="2304.96" as="sourcePoint" />
+            <mxPoint x="1639.13" y="2405.0399999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kI-2_gem-rt1LVceDTwl-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="parametric nourishment trigger (volumetric)&amp;nbsp;" vertex="1">
@@ -1023,7 +1023,7 @@
           <mxGeometry height="30" width="105" x="1215" y="2169.92" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-32" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="storm triggered assessment" vertex="1">
-          <mxGeometry height="550" width="465" x="1875" y="2080" as="geometry" />
+          <mxGeometry height="550" width="465" x="2540" y="2070" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-33" edge="1" parent="SzIs-OAu0A5rGe8o-477-32" source="SzIs-OAu0A5rGe8o-477-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
@@ -1070,7 +1070,7 @@
           <mxGeometry height="80" width="80" x="175" y="70" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-54" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="post-storm recovery" vertex="1">
-          <mxGeometry height="475" width="590" x="1875" y="2745.5" as="geometry" />
+          <mxGeometry height="475" width="590" x="1810" y="2070" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-59" edge="1" parent="SzIs-OAu0A5rGe8o-477-54" source="SzIs-OAu0A5rGe8o-477-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SzIs-OAu0A5rGe8o-477-56" value="">
           <mxGeometry relative="1" as="geometry" />

@@ -561,7 +561,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_rVoIc4acg1byQA5M3vp" name="process-map">
-    <mxGraphModel dx="1358" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1197" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1149,7 +1149,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-4" parent="29ZQw45mtxkggkA8f3GP-16" style="rhombus;whiteSpace=wrap;html=1;" value="blackout?" vertex="1">
-          <mxGeometry height="80" width="80" x="360" y="320.0799999999999" as="geometry" />
+          <mxGeometry height="80" width="80" x="360" y="321.0799999999999" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-6" parent="29ZQw45mtxkggkA8f3GP-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="above threshold" vertex="1">
           <mxGeometry height="30" width="60" x="420" y="210.07999999999993" as="geometry" />

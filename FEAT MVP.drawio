@@ -1076,32 +1076,38 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-55" parent="SzIs-OAu0A5rGe8o-477-54" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="init storm-&lt;div&gt;response shoreline&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="240" y="55" as="geometry" />
+          <mxGeometry height="60" width="100" x="335" y="74.5" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-60" edge="1" parent="SzIs-OAu0A5rGe8o-477-54" source="SzIs-OAu0A5rGe8o-477-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SzIs-OAu0A5rGe8o-477-58" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-56" parent="SzIs-OAu0A5rGe8o-477-54" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="berm recovery" vertex="1">
-          <mxGeometry height="100" width="100" x="240" y="165" as="geometry" />
+          <mxGeometry height="100" width="100" x="335" y="184.5" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-62" edge="1" parent="SzIs-OAu0A5rGe8o-477-54" source="SzIs-OAu0A5rGe8o-477-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SzIs-OAu0A5rGe8o-477-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="85" />
+              <mxPoint x="195" y="104.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-57" parent="SzIs-OAu0A5rGe8o-477-54" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="CSHORE" vertex="1">
-          <mxGeometry height="100" width="100" x="50" y="165" as="geometry" />
+          <mxGeometry height="100" width="100" x="145" y="184.5" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-63" edge="1" parent="SzIs-OAu0A5rGe8o-477-54" source="SzIs-OAu0A5rGe8o-477-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="SzIs-OAu0A5rGe8o-477-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-58" parent="SzIs-OAu0A5rGe8o-477-54" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="another storm hitting during recovery?" vertex="1">
-          <mxGeometry height="100" width="100" x="240" y="315" as="geometry" />
+          <mxGeometry height="100" width="100" x="335" y="334.5" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-25" parent="SzIs-OAu0A5rGe8o-477-54" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="sand pull offshore intially, but then gain back" vertex="1">
-          <mxGeometry height="70" width="130" x="345" y="115" as="geometry" />
+          <mxGeometry height="70" width="130" x="440" y="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5UqDlcLCvgvPaTTG630X-2" edge="1" parent="SzIs-OAu0A5rGe8o-477-54" source="5UqDlcLCvgvPaTTG630X-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SzIs-OAu0A5rGe8o-477-57" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5UqDlcLCvgvPaTTG630X-1" parent="SzIs-OAu0A5rGe8o-477-54" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="start" vertex="1">
+          <mxGeometry height="80" width="80" x="15" y="194.5" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="STORM EVENT DRIVEN" vertex="1">
           <mxGeometry height="30" width="170" x="1190" y="2070" as="geometry" />

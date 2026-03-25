@@ -1,0 +1,110 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3.1 Safari/605.1.15" version="29.6.1">
+  <diagram name="Page-1" id="nR3AY3tOMASWkw49Ugvl">
+    <mxGraphModel dx="2945" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-8" edge="1" parent="1" source="gZdf57u73-AaHv3Bg9Oy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-170" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="DB" vertex="1">
+          <mxGeometry height="80" width="60" x="-270" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-2" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="S3" vertex="1">
+          <mxGeometry height="80" width="60" x="660" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-32" edge="1" parent="1" source="gZdf57u73-AaHv3Bg9Oy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-3" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Lifecycle Generator (Lambda)" vertex="1">
+          <mxGeometry height="50" width="160" x="-340" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-15" edge="1" parent="1" source="gZdf57u73-AaHv3Bg9Oy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gZdf57u73-AaHv3Bg9Oy-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="FEATAPI*" vertex="1">
+          <mxGeometry height="80" width="80" x="100" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="i) Storm Track Selection (will change)" vertex="1">
+          <mxGeometry height="18" width="233" x="-393" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ii) Relative Probability (already exists, won&#39;t change)" vertex="1">
+          <mxGeometry height="20" width="300" x="-410" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-9" edge="1" parent="1" source="gZdf57u73-AaHv3Bg9Oy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gZdf57u73-AaHv3Bg9Oy-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Clicking the run button on the lifecycle generation page will cause ETL process to begin (essentially converting the table to .csv)" vertex="1">
+          <mxGeometry height="40" width="200" x="-160" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Store a .csv equivalent of both the Relative Probability and Storm Track Selection tables to S3." vertex="1">
+          <mxGeometry height="30" width="220" x="290" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-16" edge="1" parent="1" source="gZdf57u73-AaHv3Bg9Oy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="gZdf57u73-AaHv3Bg9Oy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="If the Relative Probability file already exists, do not add it to S3 again, as it&#39;s the same file." vertex="1">
+          <mxGeometry height="40" width="215" x="290" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="This function requires both the Storm Track and Relative Probability .csvs in the format seen in S3." vertex="1">
+          <mxGeometry height="50" width="210" x="-360" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-24" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;*A Note On FEATAPI&lt;/h1&gt;&lt;p&gt;It is not provisioned beyond local development as of March 25th, 2026. A ticket will be made by Noah.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="310" x="10" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="In lieu of a solution for converting the storm track selection and probability table to .csv, the files will simply be added to S3 in order to allow further Lambda development." vertex="1">
+          <mxGeometry height="100" width="190" x="740" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;A&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-530" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;B&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-530" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-36" edge="1" parent="1" source="gZdf57u73-AaHv3Bg9Oy-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="489.99999999999955" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-33" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="S3" vertex="1">
+          <mxGeometry height="80" width="60" x="290" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-35" edge="1" parent="1" source="gZdf57u73-AaHv3Bg9Oy-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Within the Lambda body, the function will reach out to S3 to retrieve the files created &amp;nbsp;in process &lt;b&gt;A&lt;/b&gt;." vertex="1">
+          <mxGeometry height="59" width="230" x="-90" y="575.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Function will have what it needs and complete as expected. A &lt;b&gt;Lifecycle Event Date Overview&lt;/b&gt; will be created for the given storm track selection. This file will be then saved to S3 as well in .csv format." vertex="1">
+          <mxGeometry height="59" width="230" x="490" y="575.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-38" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="S3" vertex="1">
+          <mxGeometry height="80" width="60" x="870" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-39" edge="1" parent="1" source="gZdf57u73-AaHv3Bg9Oy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="gZdf57u73-AaHv3Bg9Oy-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Q) What is the unique identifier for these resources?&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Project ID + Timestamp&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We would need to inform the Lambda of this&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="295" x="-565" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Confirm process A succeeds before beginning process B." vertex="1">
+          <mxGeometry height="30" width="200" x="-600" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="StormSuite_{projectId}_{timestamp}.csv" vertex="1">
+          <mxGeometry height="30" width="230" x="880" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="gZdf57u73-AaHv3Bg9Oy-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RelativeProbabilityAtlanticBasin.csv (one for the entire east coast)" vertex="1">
+          <mxGeometry height="25" width="360" x="880" y="105" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -9,7 +9,7 @@ set -euo pipefail
 # Output:
 # - reports/<DATE_RANGE>-work-summary.md
 
-DATE_RANGE="${DATE_RANGE:-2025-10-01..2025-10-31}"
+DATE_RANGE="${DATE_RANGE:-2025-11-01..2026-01-31}"
 OUT_DIR="${OUT_DIR:-reports}"
 OUT_FILE="${OUT_FILE:-${OUT_DIR}/${DATE_RANGE}-work-summary.md}"
 
@@ -20,7 +20,7 @@ header() {
   echo
   echo "- Time window: ${DATE_RANGE}"
   echo "- Sources:"
-  echo "  - PRs merged in: cwbi-apps/screening-tool-api-support, cwbi-apps/screening-tool-ui"
+  echo "  - PRs merged in: cwbi-apps/screening-tool-api-support, cwbi-apps/screening-tool-ui, trietmnj/cc-demo, trietmnj/stormsim"
   echo "  - Issues closed (Done) in: USACE/chart-docs"
   echo
 }
@@ -238,6 +238,8 @@ discussion_for_issues() {
   header
   fetch_prs_md "cwbi-apps/screening-tool-api-support"
   fetch_prs_md "cwbi-apps/screening-tool-ui"
+  fetch_prs_md "trietmnj/cc-demo"
+  fetch_prs_md "trietmnj/stormsim"
   fetch_closed_issues_md "USACE/chart-docs"
 
   echo
@@ -246,6 +248,8 @@ discussion_for_issues() {
 
   discussion_for_prs "cwbi-apps/screening-tool-api-support"
   discussion_for_prs "cwbi-apps/screening-tool-ui"
+  discussion_for_prs "trietmnj/cc-demo"
+  discussion_for_prs "trietmnj/stormsim"
   discussion_for_issues "USACE/chart-docs"
 } > "${OUT_FILE}"
 

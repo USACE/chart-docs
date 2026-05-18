@@ -966,7 +966,7 @@
         <mxCell id="29ZQw45mtxkggkA8f3GP-78" parent="SzIs-OAu0A5rGe8o-477-32" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="start" vertex="1">
           <mxGeometry height="80" width="80" x="175" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="SzIs-OAu0A5rGe8o-477-54" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="post-storm recovery" vertex="1">
+        <mxCell id="SzIs-OAu0A5rGe8o-477-54" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="post-storm-recovery" vertex="1">
           <mxGeometry height="475" width="590" x="1600" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="SzIs-OAu0A5rGe8o-477-59" edge="1" parent="SzIs-OAu0A5rGe8o-477-54" source="SzIs-OAu0A5rGe8o-477-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SzIs-OAu0A5rGe8o-477-56" value="">
@@ -1024,7 +1024,7 @@
         <mxCell id="-ZM2p1zk8M-khaWMjYej-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="id, response, aef" vertex="1">
           <mxGeometry height="30" width="290" x="2800" y="1520" as="geometry" />
         </mxCell>
-        <mxCell id="29ZQw45mtxkggkA8f3GP-16" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Nourishment decision" vertex="1">
+        <mxCell id="29ZQw45mtxkggkA8f3GP-16" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="beach-management_nourishment-decision" vertex="1">
           <mxGeometry height="670.08" width="710" x="905" y="2874.96" as="geometry" />
         </mxCell>
         <mxCell id="29ZQw45mtxkggkA8f3GP-2" parent="29ZQw45mtxkggkA8f3GP-16" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="nourish" vertex="1">
